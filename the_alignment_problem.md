@@ -1,7 +1,5 @@
 # The Alignment Problem - Brian Christian
 
----
-
 ## Chapter 1: "*Representation*"
 
 ### Problems with data
@@ -34,10 +32,11 @@
     * In 1952, Boston Symphony Orchestra began holding its auditions with a screen placed between the performer and the judge. Others followed suit in the 70s and 80s. However, they also had to instruct the candidates to remove their shoes before walking onto the wooden floor of the audition hall.
       * "*Machine learning models can hear the shoes!*"
 
-### Top quotes
-
-### Top trivia
-
----
 
 ## Chapter 2: "*Fairness*"
+
+## Top quotes
+
+## Top trivia
+
+## References
