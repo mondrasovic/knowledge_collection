@@ -94,6 +94,17 @@
 * Dumbbell classification without a presence of an arm was severly impaired as well.
 * Patient's gender and age can be determined purely based on the image of their retina. A neural network actually discovered a way to interpret blood vessels appropriately.
 
+## Chapter 4: "*Reinforcement*"
+
+* `Motor automatism`. An ability to write words on papers without thinking deliberately about them.
+* `The Law of Effect`. It states that when previously established modifiable connections between a situations and a response are accompanied by a satisfying state of affairs, the connection's strength is increased. Conversely, an annoying state of affairs has the opposite effect.
+* `Homeostasis`. Getting back to the baseline. From Greek *same* and *steady*. It refers to any process that living things use to actively maintain fairly stable conditions necessary for survival.
+  * It has been argued that organizms evolved to maintain homeostasis or some sort of an equilibrium.
+    * Quenching thirst, quelling hunger.
+* **Neurons are hedonists**. They pursue to maximize some approximate, local notion of *pleasure* while minimizing *pain*.
+* `Feedback`. Simply put, an **information** used for **adjustment**.
+  * **Thermostat** is a quintessential example of a **negative feedback loop**.
+
 ---
 
 ## Top quotes
@@ -113,6 +124,8 @@
 > The act of givingg a reason is the antithesis of authority. When the voice of authority fails, the voice of reason emerges, or vice versa.
 
 > The whole trick is to know what variables to consider and then  to know how to add.
+
+> The trouble of modern theories of behaviorism is not that they are wrong but that they could become true.
 
 ## Top trivia
 
