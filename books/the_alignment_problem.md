@@ -1,4 +1,5 @@
 # The Alignment Problem - Brian Christian
+
 ## Chapter 1: "*Representation*"
 
 ### Problems with data
@@ -8,7 +9,7 @@
   * `Labeled Faces in the Wild` (`LFW`) dataset contains $77\%$ males, and more than $83\%$ white people. It contains more pictures of George W. Bush than all the black females combined.
 * **Easy dissemination**.
   * Any inherent bias becomes pervasive.
-* `Shirley Card` - Shirley Page, a Kodak employee, was the first person to pose for the `color-balance benchmark` test picture.
+* `Shirley Card` - *Shirley Page*, a Kodak employee, was the first person to pose for the `color-balance benchmark` test picture.
   * Dataset is the *Shirley Card* of some machine learning models.
 * At the beginning, photos of black people were not of good quality due to not paying attention to proper calibration.
   * It changed in the 60s and 70s when the furniture and chocolate industries focused on improving their pictures.
@@ -63,7 +64,6 @@
     * There is an old adage **Use Only As Directed**.
     * Imagine a model which predicts that the most reckless drivers are male. As a result, the police start aggressively pulling over male drivers. At the same time, female drivers realize they are less likely to be reprimanded or even punished with a fine, therefore, they become even more careless.
     
-> The act of givingg a reason is the antithesis of authority. When the voice of authority fails, the voice of reason emerges, or vice versa.
 * Predictions are not an end in themselves. You should not predict just to predict.
   * What is better. A world in which we are $99$\% sure when and where a crime will happen, or where there is $99$\% less crime in general?
 * One of the fundamental assumptions of machine learning practice is that your training data matches the distribution of your test data. However, this flatly contravenes many common use cases in which there is an attempt to intervene with the future and change it.
@@ -71,39 +71,79 @@
 
 ## Chapter 3: "*Transparency*"
 
-* People should have a right for an **explanation** of **algorithmically made decisions** influencing them.
+* People should have a right to an **explanation** of **algorithmically made decisions** influencing them.
 * A real-world use case of machine learning for **predicting** whether to treat a patient as **inpatient or outpatient**. The found rule was the following: *If a patient has a history of asthma, then they are low-risk and you should treat them as such.*
-  * The reason is that the data **captures a significant fact in an inappropriate way**. Asthma is considered as such a serious factor for pneumonia patients, that not only are they put in the hospital, but they are often treated right in the ICU. And fact causes such patient to appear to be low-risk since the attention they receive is enormous due to their history.
+  * The reason is that the data **captures a significant fact in an inappropriate way**. Asthma is considered such a serious factor for pneumonia patients, that not only are they put in the hospital, but they are often treated right in the ICU. And fact causes such patients to appear to be low-risk since the attention they receive is enormous due to their history.
 * `Generalized Additive Models`. A collection of graphs, each of which represents the influence of a single variable. It is basically a generalized linear model.
 * `Explainable Artificial Intelligence` (`XAI`).
 * `General Data Protection Regulation` (`GDPR`). In the context of deep learning, this is an intriguing problem. Getting intelligible **explanations out of a deep neural network** is an **unsolved scientific problem**, yet GDPR demands it.
-* **Clinical vs. statistical prediction**. There was a case of a patient who thought that he was growing breasts. As a result, he was suspected to have been sufferring from schizophrenia. However, no one actually cared to see whether he could have been right. Well, he, as it turned out, was right. He suffered from **Klinefelter syndrome**, a genetic conditions caused by an additional X chromosome, that involves the development of breast tissue.
-* **Linear model vs. a psychology expert**. The input to the model consisted of the student's high school class rank and their college aptitute test scores. On the other hand, the psychologist did not only have this information, but also results of additional tests, notes from the interview, and their firsthand impression of the student. There was **no measurable difference** between the two predictions.
-  * The reason is that the student counselors themselvees did not place too much emphasis on the additional data, they also primarily relied on the school rank and test scores. However, their weighting was not as consistents as that of the model. And, obviously, the model can tune the weighting in an optimal fashion, therefore, achieving a slight competitive advantage.
-* **Statistical analysis vs. human judgement**. The statistical analysis was thought to provide a floor to which the judgemnet of the experienced clinian could be compared. The floor turned out to be a ceiling. What's worse, even if the **clinian was provided with the model prediction, their judgement was still worse**.
+* **Clinical vs. statistical prediction**. There was a case of a patient who thought that he was growing breasts. As a result, he was suspected to have been suffering from schizophrenia. However, no one actually cared to see whether he could have been right. Well, he, as it turned out, was right. He suffered from **Klinefelter syndrome**, a genetic condition caused by an additional X chromosome, that involves the development of breast tissue.
+* **Linear model vs. a psychology expert**. The input to the model consisted of the student's high school class rank and their college aptitude test scores. On the other hand, the psychologist did not only have this information, but also the results of additional tests, notes from the interview, and their firsthand impression of the student. There was **no measurable difference** between the two predictions.
+  * The reason is that the student counselors themselves did not place too much emphasis on the additional data, they also primarily relied on the school rank and test scores. However, their weighting was not as consistent as that of the model. And, obviously, the model can tune the weighting in an optimal fashion, therefore, achieving a slight competitive advantage.
+* **Statistical analysis vs. human judgment**. The statistical analysis was thought to provide a floor to which the judgment of the experienced clinician could be compared. The floor turned out to be a ceiling. What's worse, even if the **clinician was provided with the model prediction, their judgment was still worse**.
   * However, these models were not just random linear combinations of random properties. They were random linear combinations of precisely the things that humans have established to be the most relevant and predictive things to consider through decades if not generations of best practices.
   * The **human expertise** is characterized by **knowing what to look for**, and **not** by **knowing the best way to integrate** that **information**.
-* **Linear model to predict relationship harmony**. The linear prediction is the quintessence of simplicity. Subtract the rate of arguments from the rate of secual interaction. A positive difference means happiness, a negative one unhappiness. **This model turned out to be an extremely accurate predictor**.
-  * `Conditionally monotone independence`. Despite enormous complexity of the real world, many high-level relationships are known as **conditionally monotone**, i.e., they do not interact with each other in particularly complex ways.
+* **Linear model to predict relationship harmony**. The linear prediction is the quintessence of simplicity. Subtract the rate of arguments from the rate of sexual interaction. A positive difference means happiness, a negative one unhappiness. **This model turned out to be an extremely accurate predictor**.
+  * `Conditionally monotone independence`. Despite the enormous complexity of the real world, many high-level relationships are known as **conditionally monotone**, i.e., they do not interact with each other in particularly complex ways.
 * **History is more relevant than symptoms**. Analysis of predictive models for patient health-related issues revealed that patient history was far more important for predictions than their immediate symptoms. In fact, even including the ongoing symptoms did not yield much of an improvement.
-* `Cooperative eye hypothesis`. Why do we have distinctly large and visible sclera? Cooperation has been uncommonly important in our survival as species, to the point that the benefits of shared attention outweight the loss of a certain degree of privacy. In the context of machine learning, this is related to `saliency`.
-* A neural network was trained to classify whether an image contains an animal or not. It turned out that it based its classification output solely on the presence of **Bokeh effect**.
+* `Cooperative eye hypothesis`. Why do we have distinctly large and visible sclera? Cooperation has been uncommonly important in our survival as species, to the point that the benefits of shared attention outweigh the loss of a certain degree of privacy. In the context of machine learning, this is related to `saliency`.
+* A neural network was trained to classify whether an image contains an animal or not. It turned out that it based its classification output solely on the presence of the **Bokeh effect**.
   * `Bokeh effect`. The central image is focused whereas the background is blurred, creating an artistic impression.
-* A neural network was trained to classify tumors (malignant vs. bening). It learned that the presence of a ruler in malignant tumors is a relevant feature to look for.
+* A neural network was trained to classify tumors (malignant vs. benign). It learned that the presence of a ruler in malignant tumors is a relevant feature to look for.
   * `Multi-task learning` helps to diminish these effects since the model is forced to output more things which may be useful for validation as well as reduction of overfitting.
-* Dumbbell classification without a presence of an arm was severly impaired as well.
+* Dumbbell classification without a presence of an arm was severely impaired as well.
 * Patient's gender and age can be determined purely based on the image of their retina. A neural network actually discovered a way to interpret blood vessels appropriately.
 
 ## Chapter 4: "*Reinforcement*"
 
-* `Motor automatism`. An ability to write words on papers without thinking deliberately about them.
-* `The Law of Effect`. It states that when previously established modifiable connections between a situations and a response are accompanied by a satisfying state of affairs, the connection's strength is increased. Conversely, an annoying state of affairs has the opposite effect.
-* `Homeostasis`. Getting back to the baseline. From Greek *same* and *steady*. It refers to any process that living things use to actively maintain fairly stable conditions necessary for survival.
-  * It has been argued that organizms evolved to maintain homeostasis or some sort of an equilibrium.
+* `Motor automatism` is an ability to write words on paper **without thinking deliberately** about them.
+  * In general, `automatism` refers to a set of brief **unconscious behaviors**.
+* `The Law of Effect`, proposed by *Edward Thorndike*, states that when previously **established modifiable connections** between a **situation** and a 
+**response** are accompanied by a satisfying state of affairs, and the connection's strength is increased. Conversely, an annoying state of affairs has the opposite effect.
+
+| ![the_law_of_effect_experiment](./images/the_law_of_effect_experiment.jpg) |
+| :---: |
+| Several **cats** were placed in a **puzzle box**. They were **rewarded with food and freedom** if they managed to solve the puzzle. Eventually, it took **less time** for the cats to escape after **multiple trials and rewards**. |
+* `Homeostasis`. Getting back to the **baseline**. From Greek "*same*" and "*steady*". It refers to any process that living things use to **actively maintain fairly stable conditions** necessary for survival.
+  * It has been argued that organisms evolved to maintain homeostasis or some sort of equilibrium.
     * Quenching thirst, quelling hunger.
-* **Neurons are hedonists**. They pursue to maximize some approximate, local notion of *pleasure* while minimizing *pain*.
+* **Neurons are hedonists**. They pursue to **maximize** some approximate, local notion of **pleasure** while **minimizing pain**.
+  * `Hedonism` refers to a **family of theories** in which **pleasure** plays a **central role**.
 * `Feedback`. Simply put, an **information** used for **adjustment**.
   * **Thermostat** is a quintessential example of a **negative feedback loop**.
+  * **Cyberneticists**, especially the pioneer of the field of `cybernetics` *Norbert Wiener*, claimed that essentially all **purposeful behavior** requires **negative feedback**. However, *Harry Klopf* argued that organisms were **maximizers** and not **minimizers**. He emphasized that living things aspire to reach boundless progress in any number of senses. He practically espoused the virtues of **positive** rather than **negative** feedback.
+
+| ![Nobert_Wiener](./images/Nobert_Wiener.png) |
+| :---: |
+| *Nobert Wiener* was an American *mathematician* and *philosopher*. He is considered the originator of **cybernetics**.|
+
+* `Reward hypothesis`. All of what we mean by goals and purposes can be thought of as the **maximization** of the **cumulative sum** of a received **scalar reward**, so
+$$R = t_{t + 1} + \gamma r_{t + 2} + \gamma^2 t_{t + 3} + \dots.$$
+* `Credit-assignment problem` emerges when the **final outcome** of a **decision process** is associated with a history of numerous partial decisions.
+  * **Delayed feedback** is a particularly good precursor for having a hard time distinguishing "to which decision the credit should be assigned".
+  * In other words, "*Where did I go wrong?*"
+* `Dopamine`, or $3,4$-`dihydroxyphenethylamine`, is produced by very specific neurons comprising only less than $1$\% of $1$\% of the brain. However, they are connected to millions of other neurons in the other parts of the brain.
+* `Rescorla-Wagner model` suggested that **learning** is critically **dependant** upon **surprise**.
+  * It is a **formal model** of the circumstances under which `Pavlovian conditioning occurs.
+
+| ![classical_conditioning](./images/classical_conditioning.jpg) |
+| :---: |
+| An example of `classical conditioning`. In this experiment, the dog's inborn reflex to **salivate** at the prospect of **receiving food** was exploited to teach the dog to start salivating when the **bell was heard** but **no food was available**. During the process of training the dog, the two stimuli were present **simultaneously**, thereby producing an **association** between the two. |
+* `Policy` - what to do when (also called a `strategy` in `game theory`). It describes the **decision-making** process of an `agent`.
+  * A `stochastic policy` is a set of **conditional probability distributions**
+$$\pi \left( a \ | \ S = s \right), \forall s \in \mathcal{S}.$$
+  * A `deterministic policy` is a function
+$$\pi: S \to \mathcal{A}.$$
+  * **Policy-based** approaches lead to a well-learned "**muscle-memory**".
+* `Value function` - what rewards or punishments to expect. It describes the **expected gain** $G_t$ from a given state. It is specified with respect to a specific **policy**, thus
+$$v_{\pi} \left( s \right) = \mathbb{E}_{\pi} \left[ G_t \ | \ S_t = s \right].$$
+  * **Value-based** approaches lead to a well-learned "**spider-sense**".
+* `Actor-critic` approach is based on a **collaboration** of two components, **behavior** and **prediction**. The **actor** learn to take **optimal actions** whereas the **critic** learns to accurately predict **future rewards**.
+* `Temporal difference`, or `TD learning`, relies on the **difference** between our successive **expectations and reality**, each of which is a **learned opportunity**.
+  * We are learning a guess from a guess.
+  * The **dopamine** itself is not a **reward**, also not the **expectation**, but rather a **difference** between the initial **expectation** and the **reality**. The **fluctuation**.
+    * **Temporal learning** didn't just resemble the function of dopamine. It was the **dopamine** itself.
+    * It's a very dangerous business to **artificially increase dopamine levels**. This substance can write checks the environment simply can't cash.
 
 ---
 
@@ -119,14 +159,10 @@
 
 > Sometimes the "ground truth" is not the ground truth.
 
-> Providing overwhelming amount of information without adeuqate structure is not transparency.
+> Providing an overwhelming amount of information without adequate structure is not transparency.
 
-> The act of givingg a reason is the antithesis of authority. When the voice of authority fails, the voice of reason emerges, or vice versa.
+> The act of giving a reason is the antithesis of authority. When the voice of authority fails, the voice of reason emerges, or vice versa.
 
-> The whole trick is to know what variables to consider and then  to know how to add.
+> The whole trick is to know what variables to consider and then to know how to add.
 
-> The trouble of modern theories of behaviorism is not that they are wrong but that they could become true.
-
-## Top trivia
-
-## References
+> The trouble with modern theories of behaviorism is not that they are wrong but that they could become true.
