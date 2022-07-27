@@ -187,17 +187,38 @@ $$v_{\pi} \left( s \right) = \mathbb{E}_{\pi} \left[ G_t \ | \ S_t = s \right].$
 
 | RL approach       | Description                                                               |
 | ----------------- | ------------------------------------------------------------------------- |
-| `model-free`      | Honing instincts.                                                         |
-| `model-based`     | Understanding the world.                                                  |
-| `value-learning`  | Learning **how much** reward certain states or actions can bring.         |
+| `model-free`      | Honing **instincts**.                                                     |
+| `model-based`     | **Understanding** the world.                                              |
+| `value-learning`  | Learning **how much reward** certain states or actions can bring.         |
 | `policy-learning` | Learning **which strategies** tend to on the whole do better than others. |
 
 * One has to be careful about **rewarding A but hoping for B**.
+  * Rewarding an agent for *not dying* could lead to so-called `learned helplessness` because it would prefer not to leave the place at all.
   * Rewards should be thought of as a `conservative field` in physics.
     * It's like a **potential energy**, a function only of where you were, not how you got there, which means that going back to where you'd started was net zero.
     * One should **reward states, not actions**.
   * *Joshua Gans* mentioned that he once trained his daughter to help her younger brother go to the bathroom by rewarding her every time she did so. She found a loophole in this reward mechanism immediately and started pouring water into her brother regularly.
   * *Tom Griffiths* described a similar situation with his daughter when the rewarding system was exploited. She received praise for keeping the kitchen clean. She regularly took the brush and a pan and collected some dust and chips from the floor. Having been praised, she looked up, smiled, dumped the contents of the pan back on the floor, and started all over again.
+
+## Chapter 6: "*Curiosity*"
+
+* The idea was to start focusing on **intrinsic motivation** rather than **extrinsic**.
+  * Curiosity is such a strong motivator that designing an intrinsically motivated agent for a game eliminates the need of having to penalize for death. Simply having to start all over again is boring in and of itself. However, extrinsically motivated agents (by points, for instance) need this incentive.
+* **Solitary confinement** is a severe **punishment** that, in essence, is based on inflicting **boredom** upon people.
+* **Intrinsic motivation** inherently consists of **three related** but **distinct drives**, namely **novelty**, **surprise**, and **mastery**.
+
+| ![intrinsic_vs_extrinsic_motivation](./images/motivation_intrinsic_vs_extrinsic.jpg) |
+| :---: |
+| A difference between **intrinsic** and **extrinsic motivation**. |
+
+* `Preferential looking` is the term that describes how an infant is capable of **perceiving** the world **visually** before it is able to do it **physically**.
+  * This phenomenon was exploited to **test** the **infant's memory**. If some object didn't draw the same amount of attention after a week of first exposure, the child had to remember having seen the object already.
+* The **pleasure of surprise** is an eminently motivational factor in learning.
+  * Children were tested whether when playing with a certain toy that defied their expectations would be likely to switch to a new one. **Novelty** did not beat **surprise** in this case and the child preserved its interest in figuring out how the thing worked.
+    * Experiment with **physical blocks** that children could stack onto each other. Normally, the aim is to exploit the **center of mass** to stabilize the structure. However, the scientists tweaked the blocks using magnets so that this assumption did not hold anymore.
+* Children play with the toy the **way** which seems **surprising** to them.
+  * If a car is shown to float, then they will lift it up and drop it. Or, if a car is shown to mysteriously pass through a solid wall, the child will start banging the car on the table.
+
 ---
 
 ## Top quotes
@@ -219,3 +240,9 @@ $$v_{\pi} \left( s \right) = \mathbb{E}_{\pi} \left[ G_t \ | \ S_t = s \right].$
 > The whole trick is to know what variables to consider and then to know how to add.
 
 > The trouble with modern theories of behaviorism is not that they are wrong but that they could become true.
+
+> If the untrained infant's mind is to become an intelligent one, it must acquire both discipline and initiative. So far we have been considering only discipline.
+
+> If you're careful enough, nothing bad or good will ever happen to you.
+
+> When I'm caught between two evils, I generally like to take the one I've never tried.
