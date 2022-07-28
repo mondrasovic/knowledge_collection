@@ -14,7 +14,7 @@
 
 | ![Shirley_card](./images/Shirley_Page.png) |
 | :---: |
-| For decades, Kodak's Shirley cards, like this one, features only white models. |
+| *For decades, Kodak's Shirley cards, like this one, features only white models.* |
 
 * At the beginning, photos of black people were not of good quality due to **not paying attention** to **proper calibration**.
   * It changed in the 60s and 70s when the furniture and chocolate industries focused on improving their pictures.
@@ -30,7 +30,7 @@
 
 | ![embeddings_skip_grams_vs_CBOW](./images/embeddings_skip_grams_vs_cbow.png) |
 | :---: |
-| A comparison of **skip gram** and **CBOW** approaches to training **vector embeddings** in the context of **natural language**. |
+| *A comparison of **skip gram** and **CBOW** approaches to training **vector embeddings** in the context of **natural language**.* |
 
 * A useful tool to monitor society, both in retrospective and prospective ways (a "*big brother*").
 * **Bias reinforcement**.
@@ -44,7 +44,7 @@
 
 | ![PCA](./images/PCA.png) |
 | :--: |
-| Visual example of the **PCA** where the **first two principal components** are depicted.
+| *Visual example of the **PCA** where the **first two principal components** are depicted.* |
 
 ## Chapter 2: "*Fairness*"
 
@@ -62,7 +62,7 @@
 
 | ![differential_privacy](./images/differential_privacy.png) |
 | :--: |
-| **Differential privacy** mathematically guarantees that the result of analysis with or without the individual's private information will not be significantly impacted. |
+| ***Differential privacy** mathematically guarantees that the result of analysis with or without the individual's private information will not be significantly impacted.* |
 
 * `Redundant encoding` - When an attribute is **strongly correlated** with **other** attributes.
   * Thinking that removing an attribute indicating a race group will prevent a model from being discriminatory toward a particular group is flawed due to redundant encoding.
@@ -110,7 +110,7 @@
 
 | ![Bokeh_effect](./images/Bokeh_effect.jpg) |
 | :---: |
-| A demonstration of the so-called **Bokeh effect**. |
+| *A demonstration of the so-called **Bokeh effect**.* |
 
 * A neural network was trained to classify tumors (malignant vs. benign). It learned that the presence of a ruler in malignant tumors is a relevant feature to look for.
   * `Multi-task learning` helps to diminish these effects since the model is forced to output more things which may be useful for validation as well as reduction of overfitting.
@@ -126,7 +126,7 @@
 
 | ![the_law_of_effect_experiment](./images/the_law_of_effect_experiment.jpg) |
 | :---: |
-| Several **cats** were placed in a **puzzle box**. They were **rewarded with food and freedom** if they managed to solve the puzzle. Eventually, it took **less time** for the cats to escape after **multiple trials and rewards**. |
+| *Several **cats** were placed in a **puzzle box**. They were **rewarded with food and freedom** if they managed to solve the puzzle. Eventually, it took **less time** for the cats to escape after **multiple trials and rewards**.* |
 
 * `Homeostasis`. Getting back to the **baseline**. From Greek "*same*" and "*steady*". It refers to any process that living things use to **actively maintain fairly stable conditions** necessary for survival.
   * It has been argued that organisms evolved to maintain homeostasis or some sort of equilibrium.
@@ -139,7 +139,7 @@
 
 | ![Nobert_Wiener](./images/Nobert_Wiener.png) |
 | :---: |
-| *Nobert Wiener* was an American *mathematician* and *philosopher*. He is considered the originator of **cybernetics**.|
+| *Nobert Wiener was an American *mathematician* and *philosopher*. He is considered the originator of **cybernetics**.*|
 
 * `Reward hypothesis`. All of what we mean by goals and purposes can be thought of as the **maximization** of the **cumulative sum** of a received **scalar reward**, so
 $$R = t_{t + 1} + \gamma r_{t + 2} + \gamma^2 t_{t + 3} + \dots.$$
@@ -152,7 +152,7 @@ $$R = t_{t + 1} + \gamma r_{t + 2} + \gamma^2 t_{t + 3} + \dots.$$
 
 | ![classical_conditioning](./images/classical_conditioning.jpg) |
 | :---: |
-| An example of `classical conditioning` . In this experiment, the dog's inborn reflex to **salivate** at the prospect of **receiving food** was exploited to teach the dog to start salivating when the **bell was heard** but **no food was available**. During the process of training the dog, the two stimuli were present **simultaneously**, thereby producing an **association** between the two. |
+| *An example of `classical conditioning` . In this experiment, the dog's inborn reflex to **salivate** at the prospect of **receiving food** was exploited to teach the dog to start salivating when the **bell was heard** but **no food was available**. During the process of training the dog, the two stimuli were present **simultaneously**, thereby producing an **association** between the two.* |
 
 * `Policy` - what to do when (also called a `strategy` in `game theory`). It describes the **decision-making** process of an `agent`.
   * A `stochastic policy` is a set of **conditional probability distributions**
@@ -209,7 +209,7 @@ $$v_{\pi} \left( s \right) = \mathbb{E}_{\pi} \left[ G_t \ | \ S_t = s \right].$
 
 | ![intrinsic_vs_extrinsic_motivation](./images/motivation_intrinsic_vs_extrinsic.jpg) |
 | :---: |
-| A difference between **intrinsic** and **extrinsic motivation**. |
+| *A difference between **intrinsic** and **extrinsic motivation**.* |
 
 * `Preferential looking` is the term that describes how an infant is capable of **perceiving** the world **visually** before it is able to do it **physically**.
   * This phenomenon was exploited to **test** the **infant's memory**. If some object didn't draw the same amount of attention after a week of first exposure, the child had to remember having seen the object already.
@@ -218,6 +218,65 @@ $$v_{\pi} \left( s \right) = \mathbb{E}_{\pi} \left[ G_t \ | \ S_t = s \right].$
     * Experiment with **physical blocks** that children could stack onto each other. Normally, the aim is to exploit the **center of mass** to stabilize the structure. However, the scientists tweaked the blocks using magnets so that this assumption did not hold anymore.
 * Children play with the toy the **way** which seems **surprising** to them.
   * If a car is shown to float, then they will lift it up and drop it. Or, if a car is shown to mysteriously pass through a solid wall, the child will start banging the car on the table.
+
+## Chapter 7: "*Imitation*"
+
+* **Imitation** has a great advantage of being **very efficient**.
+  * the hard-won fruit of someone else's trial and error is handed to you.
+* Intriguing questions: "**Do monkeys ape?**", or, more generally, "**Do apes ape?**". Science says that there is a **lack of evidence** to support such claims. Quite to the contrary. However, the natural, uncanny, prolific, and seemingly hardwired imitators are actually **humans**.
+  * If you stick your tongue at a baby, it will reciprocally do the same.
+* The **recognition** of **self-other equivalences** is the **foundation**, not the outcome, of **cognition**.
+  * Babies are **aware of being imitated**.
+    * They start to concoct unusual movements to determine whether someone truly is imitating them.
+* In experiments, chimpanzees were in fact better at determining which actions were relevant or irrelevant to achieving the task by reproducing only the important ones. Children, on the other hand, they **over-imitated**.
+  * Children **reproduced unnecessary steps** even when it was clearly seen that they had **no effect**.
+
+| ![food_box_experiment](./images/food_box_experiment.png) |
+| :---: |
+| *One of the most **revealing experiments** involved plastic boxes, **opaque** and **transparent**, with **top** and **front opening**. There was a **food inside** both. When using the **opaque** box, the experimenter first demonstrated unlocking the top opening, then unlocked the front and took out the food. The top opening had nothing to do with the food. Both **chimpanzees and children replicated these steps**. However, when using a **transparent** box with the same sequence of steps, unlike children, **chimpanzees only replicated the relevant step** of grabbing the food through the front opening, ignoring the top one **[1]**.* |
+
+| ![lightbulb_experiment](./images/lightbulb_experiment.png) |
+| :---: |
+| *In one experiment the adult was being watched by a toddler while **leaning forward** and **touching a lightbulb with their head**. The toddler was supposed to **imitate**. The twist was the following. Half the time, the adult had their **hands free**, whereas half the time their **hands were covered with a blanket**. Toddlers who saw that their hands were free **imitated the steps exactly**, however, when they saw that the blanket was used, they simply **reached out and touched the lightbulb with their hands**.* |
+
+* **Overimitation** seems to be a sophisticated judgment about the mind of the teacher rather than an irrational or lazy act.
+  * When being explicitly told that children are being taught, they reproduce even the unnecessary steps. However, when the adult presents themselves as unfamiliar with the toy, for example, then children perform only rational actions.
+  * If the toddler sees that the adult performs seemingly unnecessary actions, the assumption is that probably the adult knows what they are doing so it's safer to replicate the steps exactly, regardless of what it looks like.
+* The first **autonomous vehicle**, dubbed `ALVINN` - **Autonomous Land Vehicle in a Neural Network**, was trained using **imitation**.
+
+| ![ALVINN_architecture](./images/ALVINN_architecture.png) |
+| :---: |
+| ***ALVINN architecture** [3].* |
+
+* The main **problem** with **imitation-learning** is `cascading errors`, i.e., an inability to recover from a previously "unvisited state" during the training phase.
+  * The **solution** to this issue is **interaction**.
+  * *Garry Kasparov* remarked that rote memorization of chess plays, no matter how prodigious, is a road to disaster without adequate understanding.
+    * If someone is supposed to learn from me, then I have to take care that they don't inadvertently learn to initiate behaviors that they can't handle once begun.
+* `Possibilism` means that one should do **the best possible action in every situation**.
+* `Actualism` means that one should do **the best possible action given what will *actually* happen later**.
+  * This approach gives you an excuse for bad action based on your own future moral defects.
+* `Effective altruism` is like being a vegan who eats ice cream. It is a **compromise** that person can stick with in the long run. **Balance** is key for the long term.
+* There are two approaches to `value learning` in **reinforcement learning**.
+
+| Policy type  | Description |
+| ------------ | ----------- |
+| `on-policy`  | Learn the value of each action based on the rewards the agent will **actually** expect to get after taking that particular action and continue taking actions according to its own "policy" (**actualism**). |
+| `off-policy` | Learn the value of each action based on the best **possible** series of actions that could follow it (**possibilism**). |
+
+* In the context of *Daniel Kahneman*'s ***Thinking, Fast and Slow***, the `value function` is the **fast thinking**, i.e., it develops an intuitive sense of how good a particular state is. On the other hand, the `policy network` serves the **slow thinking** by deliberately evaluating *if-then*f scenarios and learning to predict the likelihood of winning from that particular state. The system is making a bet on the move that it will ultimately decide to play.
+  * When learning, always try to provide an answer at least to yourself, regardless of how stupid it might be. This yields a far stronger learning signal to your brain than purely receiving the answer without this sort of "interaction".
+  * Use the slow thinking part to improve upon the fast thinking part by honing your instincts using prediction and subsequent adjustment of your judgment.
+* `Coherent extrapolated volition` (**CEV**) is a model describing people's choices and actions that people would collectively take if we knew more, thought faster and were more the people we wish we were.
+  * It tries to capture our better angels, at least the ones we collectively agree on. The vision rests upon the assumption that a superintelligence will have a better sense of morality than even ourselves.
+  * `Indirect normativity` is a method of control by which the motivation of the superintelligence is shaped not directly, but indirectly.
+    * Lacking confidence in our ability to specify a concrete normative standard, we would instead specify some more abstract condition that any normative standard should satisfy, in the hope that a superintelligence could find a concrete standard that satisfies the abstract condition.
+
+## Chapter 8: "*Inference*"
+
+* `Inverse reinforcement learning` means that the **machine** has to **observe** and then **devise** the **rules** by which we **operate**.
+  * Given the **observed behavior**, what **signal** is being **optimized**?
+    * What do they think they are doing?
+  * It is an `ill-posed` problem, i.e., there is **no unique solution**.
 
 ---
 
@@ -246,3 +305,11 @@ $$v_{\pi} \left( s \right) = \mathbb{E}_{\pi} \left[ G_t \ | \ S_t = s \right].$
 > If you're careful enough, nothing bad or good will ever happen to you.
 
 > When I'm caught between two evils, I generally like to take the one I've never tried.
+
+## References
+
+* **[1]** *Horner, Victoria, and Andrew Whiten.* "[Causal knowledge and imitation/emulation switching in chimpanzees (Pan troglodytes) and children (Homo sapiens).](https://pubmed.ncbi.nlm.nih.gov/15549502/)" Animal cognition 8.3 (2005): 164-181.
+
+* **[2]** *Gergely, György, Harold Bekkering, and Ildikó Király.* "[Rational imitation in preverbal infants.](https://www.nature.com/articles/415755a)" Nature 415.6873 (2002): 755-755.
+
+* **[3]** *Pomerleau, Dean A.* "[Alvinn: An autonomous land vehicle in a neural network.](https://proceedings.neurips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf)" Advances in neural information processing systems 1 (1988).

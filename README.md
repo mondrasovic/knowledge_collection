@@ -4,7 +4,7 @@ A collection of **personal notes** that range from **books** or **web articles**
 
 ## Books
 
-* [Brian Christian - The Alignment Problem](books/the_alignment_problem.md)
+* [Brian Christian - The Alignment Problem](books/the_alignment_problem/the_alignment_problem.md)
 
 ## Web articles
 
