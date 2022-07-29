@@ -270,14 +270,24 @@ $$v_{\pi} \left( s \right) = \mathbb{E}_{\pi} \left[ G_t \ | \ S_t = s \right].$
   * It tries to capture our better angels, at least the ones we collectively agree on. The vision rests upon the assumption that a superintelligence will have a better sense of morality than even ourselves.
   * `Indirect normativity` is a method of control by which the motivation of the superintelligence is shaped not directly, but indirectly.
     * Lacking confidence in our ability to specify a concrete normative standard, we would instead specify some more abstract condition that any normative standard should satisfy, in the hope that a superintelligence could find a concrete standard that satisfies the abstract condition.
+      * Creating something on our own image is predicated upon the assumption that we are doing it right.
 
 ## Chapter 8: "*Inference*"
 
-* `Inverse reinforcement learning` means that the **machine** has to **observe** and then **devise** the **rules** by which we **operate**.
+* `Inverse reinforcement learning` (**IRL**) means that the **machine** has to **observe** and then **devise** the **rules** by which we **operate**.
   * Given the **observed behavior**, what **signal** is being **optimized**?
     * What do they think they are doing?
   * It is an `ill-posed` problem, i.e., there is **no unique solution**.
-
+* Our ability to **infer** what others want is crucial from an evolutionary standpoint. Children can infer this by their first birthday, whereas inferring what others think takes roughly four years since their birth.
+* `Cooperative inverse reinforcement learning` (**CIRL**) is about having the **computer** as well as the **human** trying to reach the very **same reward function**. However, initially, only human knows what it is. The agent has to rely on **inference**.
+  * Knowing that we are **being observed** for the purpose of **teaching** makes a difference to the way we behave so that our actions are more readable.
+    * The "**sing-songy**" way of talking to children has a deep **pedagogical effect** on them and it has been **demonstrated** that they actually **learn** the language **faster**.
+  * Behaving **predictably** and **legibly** are almost two opposite things. Behaving **predictably** presumes that the observer **knows what you doing**, whilst behaving **legibly** presumes that they **do not**.
+  * **Interaction** is a lot better than **"watch and learn"** paradigm.
+    * If an agent was shown a certain sequence of actions and then subjected to optimization, it often found a **loophole** and the whole training ended up a disaster. However, when the learning process was interwoven with **interaction**, such issues tended to go away.
+* There is established literature that `cross-training` is one of the best ways to human team training (changing roles between team members to "try out other's shoes"). The literature also says that having the **same goal** is **not enough**. When working together, relying on a **common plan** is the key. For instance, if two people **independently** adopt an **optimal** but **different strategy** to achieve the **same goal**, they are going to perform **much worse** than when working together **coherently** using a **suboptimal strategy**.
+* **Inferring our goals** by artificial intelligence is a very **subtle problem**.
+  * Imagine being an alcoholic and the model starts to think that you really do love alcohol, therefore you would end up deluged with alcohol advertisements.
 ---
 
 ## Top quotes
