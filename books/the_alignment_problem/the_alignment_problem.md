@@ -288,6 +288,48 @@ $$v_{\pi} \left( s \right) = \mathbb{E}_{\pi} \left[ G_t \ | \ S_t = s \right].$
 * There is established literature that `cross-training` is one of the best ways to human team training (changing roles between team members to "try out other's shoes"). The literature also says that having the **same goal** is **not enough**. When working together, relying on a **common plan** is the key. For instance, if two people **independently** adopt an **optimal** but **different strategy** to achieve the **same goal**, they are going to perform **much worse** than when working together **coherently** using a **suboptimal strategy**.
 * **Inferring our goals** by artificial intelligence is a very **subtle problem**.
   * Imagine being an alcoholic and the model starts to think that you really do love alcohol, therefore you would end up deluged with alcohol advertisements.
+
+## Chapter 9: "*Uncertainty*"
+
+* The problem of **overconfidence**.
+  * Not only do these machine learning systems make erroneous judgments, but they also make them with outrageously high confidence.
+  * A neural network trained on **ImageNet** dataset will categorize everything into one of thousand categories, even white noise!
+    * `Adversarial Attacks` are related to this phenomenon.
+* `Open category problem` emphasizes the need of a system to know that a given sample is outside of the categories it has been trained on.
+
+| Method                                | Description        |
+| ------------------------------------- | ----------------   |
+| Deduction and planning                | *known knowns*     |
+| Causality, inference, and probability | *known unknowns*   |
+| *The **problem** of current systems!*     | *unknown unknowns* |
+
+* It's ironic that **deep learning**, despite being rooted in **statistics**, has **not** made **uncertainty** a first-class citizen.
+* `Bayesian neural networks` try to **replace** the **fixed weights** between neurons by **probability distributions**. The fact that such systems would **not** yield **deterministic** predictions is a **feature, not a bug**. The **variability** of the prediction would be **indicative** of the underlying **uncertainty** of the system.
+* `Bayesian uncertainty` could be attainable through the use of model `ensembles`.
+  * **Ensembles** can be likened to the *Minority Report* movie where the dissent is a clue that something's up, the ensemble is fractious, proceed with caution.
+* Invoking the principle of **not choosing** as **irreversible path** when faced with **uncertainty**.
+  * Although it is true that **every action** is **irreversible** since **time** is **linear**.
+  * The game `Sokoban` (the name of which means "*warehouse keeper*" in Japanese) is a game where a **box** can only be **pushed**, not **pulled**. Thus, once the box is moved into a corner, it stays there forever.
+* `Stepwise relative reachability` is a concept in which the **action** of an agent is **evaluated** with emphasis on **how many states of the world are reachable after taking the action** with the aim of keeping this number **as high as possible** while still **progressing** towards the **goal**.
+* The notion of `corrigibility` represents the human's **ability** to **intervene** with the machine's **decision** in case we were not sure about the constraints we gave the machine.
+  * However, being able to "*yank the electricity out of the wall*" will not work as an intervention if we assume that the **machine** would be **smarter than humans**.
+  * Ideally, we should strive to build systems that are capable of knowing that they might be wrong. But, if the system learns from its mistakes, its uncertainty will eventually reduce to zero, and it will even think it knows better than humans. Situations like "you will like this, although you think you won't... but, trust me!" would be an inevitable consequence.
+    * `Dunning-Kruger` effect in action.
+
+| ![Dunning_Kruger_efect](./images/Dunning_Kruger_effect.png) |
+| :---: |
+| *Visualization of the **Dunning-Kruger effect**.* |
+
+* `Inverse reward design` (**IRD**) is about *"what do I think you want based on what you told me to do?"*
+
+| Viewpoint | Description |
+| --------- | ----------- |
+| `Laxism`  | Something is okay as long as there is a chance it's not sinful. |
+| `Rigorism` | Something is forbidden if there is a chance that it's sinful. |
+| `Probabiliorism` | Something is okay as long as the probability of it not being sinful is higher. |
+
+* "**Lex dubia non obligat**" means "**a doubtful law does not bind**".
+
 ---
 
 ## Top quotes
@@ -315,6 +357,8 @@ $$v_{\pi} \left( s \right) = \mathbb{E}_{\pi} \left[ G_t \ | \ S_t = s \right].$
 > If you're careful enough, nothing bad or good will ever happen to you.
 
 > When I'm caught between two evils, I generally like to take the one I've never tried.
+
+> Most of the greatest evils that man has inflicted upon man have come through people feeling quite certain about something which, in fact, was false. (*Bertrand Russel*)
 
 ## References
 
