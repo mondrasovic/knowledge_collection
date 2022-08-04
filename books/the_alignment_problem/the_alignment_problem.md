@@ -330,6 +330,24 @@ $$v_{\pi} \left( s \right) = \mathbb{E}_{\pi} \left[ G_t \ | \ S_t = s \right].$
 
 * "**Lex dubia non obligat**" means "**a doubtful law does not bind**".
 
+## Conclusion
+
+* **Make sure you measure what you think you measure.**
+  * The author mentioned his experience with the heater. The thermostat was placed in an open room, however, the heating system was blowing hot air into their bedroom, whereas the feedback about the current temperature was coming from a room in which the system was unable to raise the temperature thanks to an open window and freezing temperatures outside.
+* **Biases are often manually induced**.
+  * Prohibiting performing studies on pregnant women does inadvertently induce bias into the data.
+* **Human capacity to reason has not evolved to form accurate views about the world, but rather to efficiently persuade others.**
+* `Ergodicity` means that a system cannot be reduced into smaller components. You basically "cannot make a permanent mistake".
+  * An average outcome of a group is the same as the average outcome of an individual.
+    * **Gambling** is a great example of a system that is **not ergodic**. An individual may, and very likely will go broke even if the entire gambling game is statistically fair for the whole group. Another great example is Russian roulette. If playing Russian roulette can win you $1m, then taking the expected value across multiple players who play the game just once yields that $83$\% of those become millionaires. However, looking at a single path of an individual player who plays the game multiple times sheds a different light on the fairness of the game.
+  * Remember the difference between `ensemble probability` and `time probability`.
+    * `Time average` is an average of a single process over time, whereas `ensemble average` is the average of multiple identical processes over a certain period.
+
+| ![time_average_vs_ensemble_average](./images/time_average_vs_ensemble_average.png) |
+| :---: |
+| *Visualization of the difference between **time** and **ensemble average**.* |
+
+* `Distributional shift` is neatly demonstrated in an example where linguists are incapable of reproducing the accuracy reported in papers published two years ago. Unless the very same data is used, the English language has changed measurably since then, thus it leads to a situations where **the map is not the territory**.
 ---
 
 ## Top quotes
