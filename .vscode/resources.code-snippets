@@ -23,11 +23,11 @@
 			"# --------------------------------------------------------------------------------------------------",
 			"- word: \"$0\"",
 			"  definition: \"#\"",
-			"  slovak-translations:
-			"    - \"#\"",
 			"  synonyms:",
 			"    - \"#\"",
 			"  examples:",
+			"    - \"#\"",
+			"  slovak-translations:",
 			"    - \"#\""
 		],
 		"description": "Create a template for an English vocabulary entry."
