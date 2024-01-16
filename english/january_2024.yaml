@@ -1,35 +1,35 @@
 # --------------------------------------------------------------------------------------------------
 - word: "overarching"
   definition: "something that includes or encompasses everything"
-  slovak-translations:
-    - "zastrešujúce"
   synonyms:
     - "comprehensive"
     - "global"
     - "encompassing"
   examples:
     - "There is no _overarching_ organ overseeing the production of supplements."
+  slovak-translations:
+    - "zastrešujúce"
 
 # --------------------------------------------------------------------------------------------------
 - word: "casing"
   definition: "protective covering or outer layer, often used to enclose an object"
-  slovak-translations:
-    - "obal"
-    - "puzdro"
   synonyms:
     - "sheath"
     - "covering"
     - "encasement"
   examples:
     - "Since the pill _casing_ is low-quality, unnecessary fillers need to be used to protect its contents."
+  slovak-translations:
+    - "obal"
+    - "puzdro"
 
 # --------------------------------------------------------------------------------------------------
 - word: "to stand someone in a good stead"
   definition: "to be of great use for someone"
-  slovak-translations:
-    - "postaviť niekoho do výhodnej pozície"
   synonyms:
     - "advantageous"
     - "beneficial"
   examples:
     - "Embarking on a well-rounded education _stood me in a good stead_ throughout my career."
+  slovak-translations:
+    - "postaviť niekoho do výhodnej pozície"
