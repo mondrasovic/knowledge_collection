@@ -11,7 +11,7 @@
   translations:
     - language: "slovak"
       items:
-      - "zastrešujúce"
+        - "zastrešujúce"
 
 # --------------------------------------------------------------------------------------------------
 - word: "casing"
@@ -26,8 +26,8 @@
   translations:
     - language: "slovak"
       items:
-      - "obal"
-      - "puzdro"
+        - "obal"
+        - "puzdro"
 
 # --------------------------------------------------------------------------------------------------
 - word: "to stand someone in a good stead"
@@ -41,7 +41,7 @@
   translations:
     - language: "slovak"
       items:
-      - "postaviť niekoho do výhodnej pozície"
+        - "postaviť niekoho do výhodnej pozície"
 
 # --------------------------------------------------------------------------------------------------
 - word: "to chime in"
@@ -57,8 +57,8 @@
   translations:
     - language: "slovak"
       items:
-      - "pridať sa do konverzácie"
-      - "zapojiť sa do rozhovoru"
+        - "pridať sa do konverzácie"
+        - "zapojiť sa do rozhovoru"
 
 # --------------------------------------------------------------------------------------------------
 - word: "be slated to"
@@ -73,7 +73,7 @@
   translations:
     - language: "slovak"
       items:
-      - "byť plánovaný"
+        - "byť plánovaný"
 
 # --------------------------------------------------------------------------------------------------
 - word: "severance payment"
@@ -87,7 +87,7 @@
   translations:
     - language: "slovak"
       items:
-      - "odstupné"
+        - "odstupné"
 
 # --------------------------------------------------------------------------------------------------
 - word: "to expedite"
@@ -101,4 +101,4 @@
   translations:
     - language: "slovak"
       items:
-      - "urýchliť"
+        - "urýchliť"

@@ -27,8 +27,10 @@
 			"    - \"#\"",
 			"  examples:",
 			"    - \"#\"",
-			"  slovak-translations:",
-			"    - \"#\""
+			"  translations:",
+			"    - language: \"slovak\"",
+			"      items:",
+			"        - \"#\""
 		],
 		"description": "Create a template for an English vocabulary entry."
 	},
