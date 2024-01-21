@@ -1,84 +1,104 @@
 # --------------------------------------------------------------------------------------------------
 - word: "overarching"
   definition: "something that includes or encompasses everything"
+  category: "adjective"
   synonyms:
     - "comprehensive"
     - "global"
     - "encompassing"
   examples:
-    - "There is no _overarching_ organ overseeing the production of supplements."
-  slovak-translations:
-    - "zastrešujúce"
+    - "There is no overarching organ overseeing the production of supplements."
+  translations:
+    - language: "slovak"
+      items:
+      - "zastrešujúce"
 
 # --------------------------------------------------------------------------------------------------
 - word: "casing"
   definition: "protective covering or outer layer, often used to enclose an object"
+  category: "noun"
   synonyms:
     - "sheath"
     - "covering"
     - "encasement"
   examples:
-    - "Since the pill _casing_ is low-quality, unnecessary fillers need to be used to protect its contents."
-  slovak-translations:
-    - "obal"
-    - "puzdro"
+    - "Since the pill casing is low-quality, unnecessary fillers need to be used to protect its contents."
+  translations:
+    - language: "slovak"
+      items:
+      - "obal"
+      - "puzdro"
 
 # --------------------------------------------------------------------------------------------------
 - word: "to stand someone in a good stead"
   definition: "to be of great use for someone"
+  category: "idiom"
   synonyms:
     - "advantageous"
     - "beneficial"
   examples:
-    - "Embarking on a well-rounded education _stood me in a good stead_ throughout my career."
-  slovak-translations:
-    - "postaviť niekoho do výhodnej pozície"
+    - "Embarking on a well-rounded education stood me in a good stead throughout my career."
+  translations:
+    - language: "slovak"
+      items:
+      - "postaviť niekoho do výhodnej pozície"
 
 # --------------------------------------------------------------------------------------------------
 - word: "to chime in"
   definition: "to interrupt or speak in a conversation"
+  category: "verb"
   synonyms:
     - "contribute"
     - "join in"
     - "interject"
   examples:
-    - "I would like more researchers and engineer to _chime in_."
-    - "I decided to _chime in_ with my idea regarding optimization."
-  slovak-translations:
-    - "pridať sa do konverzácie"
-    - "zapojiť sa do rozhovoru"
+    - "I would like more researchers and engineer to chime in."
+    - "I decided to chime in with my idea regarding optimization."
+  translations:
+    - language: "slovak"
+      items:
+      - "pridať sa do konverzácie"
+      - "zapojiť sa do rozhovoru"
 
 # --------------------------------------------------------------------------------------------------
 - word: "be slated to"
   definition: "if something is slated to happen, then it is planned (scheduled) to happen in the future"
+  category: "verb"
   synonyms:
     - "be scheduled for"
     - "be planned for"
   examples:
-    - "The meeting regarding team synchronization is _slated to_ happen tomorrow."
-    - "The highly anticipated product launch is _slated to_ take place next month."
-  slovak-translations:
-    - "byť plánovaný"
-  
+    - "The meeting regarding team synchronization is slated to happen tomorrow."
+    - "The highly anticipated product launch is slated to take place next month."
+  translations:
+    - language: "slovak"
+      items:
+      - "byť plánovaný"
 
 # --------------------------------------------------------------------------------------------------
 - word: "severance payment"
   definition: "it refers to a financial package or compensation that an employer provides to an employee upon termination of employment"
+  category: "noun"
   synonyms:
     - "termination pay"
     - "exit compensation"
   examples:
-    - "My eployes has offered me a generous _severance payment_."
-  slovak-translations:
-    - "odstupné"
+    - "My eployes has offered me a generous severance payment."
+  translations:
+    - language: "slovak"
+      items:
+      - "odstupné"
 
 # --------------------------------------------------------------------------------------------------
 - word: "to expedite"
   definition: "to make a process or action happen more quickly and efficiently"
+  category: "verb"
   synonyms:
     - "accelerate"
     - "hasten"
   examples:
-    - "in order to _expedite_ the process of dissemination of our statistical results"
-  slovak-translations:
-    - "urýchliť"
+    - "We have devised this approach to expedite the dissemination of our results."
+  translations:
+    - language: "slovak"
+      items:
+      - "urýchliť"
