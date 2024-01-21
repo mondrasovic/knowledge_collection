@@ -102,3 +102,49 @@
     - language: "slovak"
       items:
         - "urýchliť"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to take issue with"
+  definition: "it means to start arguing someone as a result of disagreement"
+  category: "idiom"
+  synonyms:
+    - "dispute"
+    - "object"
+    - "contes"
+  examples:
+    - "I take no issue with the solution you proposed."
+  translations:
+    - language: "slovak"
+      items:
+        - "mať námietky k"
+
+
+# --------------------------------------------------------------------------------------------------
+- word: "to come to terms with"
+  definition: "to accept something"
+  category: "idiom"
+  synonyms:
+    - "accept"
+    - "make peace with"
+    - "embrace"
+  examples:
+    - "I have come to terms with my diet and lifestyle."
+  translations:
+    - language: "slovak"
+      items:
+        - "vyrovnať sa s niečim"
+        - "zmieriť sa"
+
+# --------------------------------------------------------------------------------------------------
+- word: "as it stands"
+  definition: "in its current state or condition"
+  category: "idiom"
+  synonyms:
+    - "currently"
+    - "at the moment"
+  examples:
+    - "As it stands, the project deadline is just around the corner."
+  translations:
+    - language: "slovak"
+      items:
+        - "v súčasnej podobe"
