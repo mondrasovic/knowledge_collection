@@ -4,6 +4,8 @@ import dataclasses
 import enum
 from typing import TYPE_CHECKING
 
+import yaml
+
 if TYPE_CHECKING:
     from collections.abc import Iterator, Sequence
     from typing import Any, Type, TypeAlias, TypeVar
@@ -87,3 +89,9 @@ class Vocabulary:
     @classmethod
     def from_dict(cls, data_dict: VocabDict) -> Vocabulary:
         return cls(items=[VocabularyItem.from_dict(item) for item in data_dict])
+
+    @classmethod
+    def from_yaml(cls, yaml_file_path: str) -> Vocabulary:
+        with open(yaml_file_path, "rt") as in_file:
+            content = yaml.safe_load(in_file)
+        return cls.from_dict(content)

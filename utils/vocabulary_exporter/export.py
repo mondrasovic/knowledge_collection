@@ -4,6 +4,8 @@ import abc
 import re
 from typing import TYPE_CHECKING
 
+from .utils import encode_url
+
 if TYPE_CHECKING:
     from os import PathLike
 
@@ -21,7 +23,7 @@ class VSCodeRevealExporter(VocabularyExporter):
         self.output_file_path = output_file_path
 
     def export(self, vocabulary: Vocabulary) -> None:
-        with open(self.output_file_path) as out_file:
+        with open(self.output_file_path, "wt") as out_file:
             out_file.write(self.vocabulary_to_markdown(vocabulary))
 
     @classmethod
@@ -96,6 +98,7 @@ Created by *{author}*
 | Language | Translation(s) |
 | -------- | ------------ |
 {translation_rows}
+
 """
 
     @staticmethod
@@ -103,6 +106,13 @@ Created by *{author}*
         items = ", ".join(translation.items)
         translation_row = f"| *{translation.language}* | {items} |"
         return translation_row
+
+    @classmethod
+    def build_youglish_url(cls, word: str, dialect: str = "us") -> str:
+        conversation_style_word = cls.adapt_word_to_conversation_style(word)
+        return encode_url(
+            f"https://youglish.com/pronounce/{conversation_style_word}/english/{dialect}"
+        )
 
     @staticmethod
     def adapt_word_to_conversation_style(word: str) -> str:
