@@ -22,7 +22,7 @@
     - "covering"
     - "encasement"
   examples:
-    - "Since the pill casing is low-quality, unnecessary fillers need to be used to protect its contents."
+    - "Since the pill casing is low-quality, unnecessary fillers need to protect its contents."
   translations:
     - language: "slovak"
       items:
@@ -52,7 +52,7 @@
     - "join in"
     - "interject"
   examples:
-    - "I would like more researchers and engineer to chime in."
+    - "I would like more researchers and engineers to chime in."
     - "I decided to chime in with my idea regarding optimization."
   translations:
     - language: "slovak"
@@ -83,7 +83,7 @@
     - "termination pay"
     - "exit compensation"
   examples:
-    - "My eployes has offered me a generous severance payment."
+    - "My employee has offered me a generous severance payment."
   translations:
     - language: "slovak"
       items:
