@@ -31,7 +31,7 @@
 
 # --------------------------------------------------------------------------------------------------
 - word: "to stand someone in a good stead"
-  definition: "to be of great use for someone"
+  definition: "to be of great use for someone, or to end up in a good position thanks to something"
   category: "idiom"
   synonyms:
     - "advantageous"
@@ -45,7 +45,7 @@
 
 # --------------------------------------------------------------------------------------------------
 - word: "to chime in"
-  definition: "to interrupt or speak in a conversation"
+  definition: "to speak in a conversation or add something to it"
   category: "verb"
   synonyms:
     - "contribute"
@@ -80,6 +80,7 @@
   definition: "it refers to a financial package or compensation that an employer provides to an employee upon termination of employment"
   category: "noun"
   synonyms:
+    - "severance package"
     - "termination pay"
     - "exit compensation"
   examples:
@@ -105,12 +106,12 @@
 
 # --------------------------------------------------------------------------------------------------
 - word: "to take issue with"
-  definition: "it means to start arguing someone as a result of disagreement"
+  definition: "it means to have a problem with something (some aspect of a plan, etc.)"
   category: "idiom"
   synonyms:
     - "dispute"
     - "object"
-    - "contes"
+    - "contest"
   examples:
     - "I take no issue with the solution you proposed."
   translations:
@@ -148,3 +149,119 @@
     - language: "slovak"
       items:
         - "v súčasnej podobe"
+
+# --------------------------------------------------------------------------------------------------
+- word: "turkey wattle"
+  definition: "fleshy, wrinkled skin of a turkey on its neck"
+  category: "noun"
+  synonyms:
+    - "caruncle"
+  examples:
+    - "I saw a giant turkey with its wattle vibrant with the hues of red and blue color"
+  translations:
+    - language: "slovak"
+      items:
+        - "morčací lalok"
+
+# --------------------------------------------------------------------------------------------------
+- word: "bells and whistles"
+  definition: "describes extra, often unnecessary features or embellishments added to something"
+  category: "idiom"
+  synonyms:
+    - "extravagances"
+    - "add-ons"
+  examples:
+    - "The smartphone has all the bells and whistles one may wish for."
+  translations:
+    - language: "slovak"
+      items:
+        - "nadbytočné vymoženosti"
+
+# --------------------------------------------------------------------------------------------------
+- word: "smörgåsbord"
+  definition: "a buffet-style meal of Swedish origin, served with various hot and cold dishes"
+  category: "noun"
+  synonyms:
+    - "buffet"
+    - "feast"
+    - "all-you-can-eat"
+  examples:
+    - "The celebration was a delightful smörgåsbord of flavors and colors"
+  translations:
+    - language: "slovak"
+      items:
+        - "švédsky stôl"
+
+# --------------------------------------------------------------------------------------------------
+- word: "highlights reel"
+  definition: "refers to a compilation of the most exciting, memorable, or noteworthy moments"
+  category: "noun"
+  synonyms:
+    - "defining moments"
+  examples:
+    - "Here's the highlights reel of what you can expect during the upcoming winter week."
+    - "Highlights reel from our latest game."
+  translations:
+    - language: "slovak"
+      items:
+        - "najlepšie momenty"
+        - "prehľad toho najlepšieho"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to flesh out"
+  definition: "add more details and information to something, make it more comprehensive, etc."
+  category: "verb"
+  synonyms:
+    - "elaborate"
+    - "develop"
+  examples:
+    - "He fleshed out a plan to significantly improve our outbound marketing."
+  translations:
+    - language: "slovak"
+      items:
+        - "rozpracovať"
+        - "detailne popísať"
+
+# --------------------------------------------------------------------------------------------------
+- word: "one fell swoop"
+  definition: "to do something swiftly and in a single decisive action"
+  category: "idiom"
+  synonyms:
+    - "single stroke"
+    - "swift action"
+  examples:
+    - "We ended up cutting large swaths of features out of the product in one fell swoop."
+  translations:
+    - language: "slovak"
+      items:
+        - "jedným vrzom"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to draw on"
+  definition: "to utilize or make use of something, often resources, knowledge, or experience"
+  category: "verb"
+  synonyms:
+    - "utilize"
+    - "harness"
+  examples:
+    - "Drawing on his understanding of innovation and what it takes to get new ideas into the market"
+  translations:
+    - language: "slovak"
+      items:
+        - "čerpať"
+        - "využívať"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to set out something"
+  definition: "outline, present, or establish"
+  category: "verb"
+  synonyms:
+    - "present"
+    - "outline"
+    - "lay out"
+  examples:
+    - "He sets out a wide-ranging, practical and accessible plan for how the world can get to zero greenhouse gas emissions in time."
+  translations:
+    - language: "slovak"
+      items:
+        - "predstaviť niečo"
