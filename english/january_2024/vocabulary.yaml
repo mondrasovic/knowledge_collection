@@ -254,7 +254,7 @@
 # --------------------------------------------------------------------------------------------------
 - word: "to set out something"
   definition: "outline, present, or establish"
-  category: "verb"
+  category: "phrasal verb"
   synonyms:
     - "present"
     - "outline"
@@ -265,3 +265,64 @@
     - language: "slovak"
       items:
         - "predstaviť niečo"
+
+# --------------------------------------------------------------------------------------------------
+- word: "make a dent"
+  definition: "to make progress or to have a noticeable impact"
+  category: "idiom"
+  synonyms:
+    - "make a differene"
+    - "make an impact"
+    - "leave a mark"
+  examples:
+    - "The current commitments will not make a huge dent in emissions."
+  translations:
+    - language: "slovak"
+      items:
+        - "dosiahnúť pokrok"
+        - "mať badateľný vplyv"
+
+# --------------------------------------------------------------------------------------------------
+- word: "fruition"
+  definition: "the point at which a plan or project is realized"
+  category: "noun"
+  synonyms:
+    - "realization"
+    - "fulfillment"
+    - "attainment"
+  examples:
+    - "Our plans to combat climate change have finally come to fruition."
+  translations:
+    - language: "slovak"
+      items:
+        - "plnenie"
+        - "naplnenie"
+
+# --------------------------------------------------------------------------------------------------
+- word: "as in"
+  definition: "used to introduce a specific example or illustration"
+  category: "idiom"
+  synonyms:
+    - "such as"
+    - "for instance"
+    - "like"
+  examples:
+    - "As in, oil is cheaper than soda."
+    - "Precision matters, as in the case of scientific reports."
+  translations:
+    - language: "slovak"
+      items:
+        - "napríklad"
+
+# --------------------------------------------------------------------------------------------------
+- word: "a drop in the bucket"
+  definition: "a small change in something with neglible impact"
+  category: "idiom"
+  synonyms:
+    - "negligible"
+  examples:
+    - "Our emission reductions are just a drop in the bucket compared to what we need."
+  translations:
+    - language: "slovak"
+      items:
+        - "kvapka v mori"

@@ -72,7 +72,7 @@ Created by *Milan Ondrašovič*
 
 ### General Information
 
-* **definition**: to be of great use for someone
+* **definition**: to be of great use for someone, or to end up in a good position thanks to something
 * **category**: *idiom*
 * **synonyms**: advantageous, beneficial
 
@@ -92,7 +92,7 @@ Created by *Milan Ondrašovič*
 
 ### General Information
 
-* **definition**: to interrupt or speak in a conversation
+* **definition**: to speak in a conversation or add something to it
 * **category**: *verb*
 * **synonyms**: contribute, join in, interject
 
@@ -138,7 +138,7 @@ Created by *Milan Ondrašovič*
 
 * **definition**: it refers to a financial package or compensation that an employer provides to an employee upon termination of employment
 * **category**: *noun*
-* **synonyms**: termination pay, exit compensation
+* **synonyms**: severance package, termination pay, exit compensation
 
 ### Usage Example
 
@@ -176,9 +176,9 @@ Created by *Milan Ondrašovič*
 
 ### General Information
 
-* **definition**: it means to start arguing someone as a result of disagreement
+* **definition**: it means to have a problem with something (some aspect of a plan, etc.)
 * **category**: *idiom*
-* **synonyms**: dispute, object, contes
+* **synonyms**: dispute, object, contest
 
 ### Usage Example
 
@@ -238,7 +238,7 @@ Created by *Milan Ondrašovič*
 
 * **definition**: fleshy, wrinkled skin of a turkey on its neck
 * **category**: *noun*
-* **synonyms**: caruncle, snood, dewlap
+* **synonyms**: caruncle
 
 ### Usage Example
 
@@ -278,7 +278,7 @@ Created by *Milan Ondrašovič*
 
 * **definition**: a buffet-style meal of Swedish origin, served with various hot and cold dishes
 * **category**: *noun*
-* **synonyms**: buffer, feast, all-you-can-eat
+* **synonyms**: buffet, feast, all-you-can-eat
 
 ### Usage Example
 
@@ -302,7 +302,9 @@ Created by *Milan Ondrašovič*
 
 ### Usage Example
 
-> Here's the highlights reel of what you can except during the upcoming winter week,
+> Here's the highlights reel of what you can expect during the upcoming winter week.
+
+> Highlights reel from our latest game.
 
 **Pronunciation**: [US English](https://youglish.com/pronounce/highlights%20reel/english/us), [UK English](https://youglish.com/pronounce/highlights%20reel/english/uk)
 
@@ -322,7 +324,7 @@ Created by *Milan Ondrašovič*
 
 ### Usage Example
 
-> He fleshed out a plan to significantly improve our outbound marketing,
+> He fleshed out a plan to significantly improve our outbound marketing.
 
 **Pronunciation**: [US English](https://youglish.com/pronounce/flesh%20out/english/us), [UK English](https://youglish.com/pronounce/flesh%20out/english/uk)
 
@@ -389,5 +391,67 @@ Created by *Milan Ondrašovič*
 | Language | Translation(s) |
 | -------- | ------------ |
 | *Slovak* | predstaviť niečo |
+
+---
+
+## Word: "make a dent"
+
+### General Information
+
+* **definition**: to make progress or to have a noticeable impact
+* **category**: *idiom*
+* **synonyms**: make a differene, make an impact, leave a mark
+
+### Usage Example
+
+> The current commitments will not make a huge dent in emissions.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/make%20a%20dent/english/us), [UK English](https://youglish.com/pronounce/make%20a%20dent/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | dosiahnúť pokrok, mať badateľný vplyv |
+
+---
+
+## Word: "fruition"
+
+### General Information
+
+* **definition**: the point at which a plan or project is realized
+* **category**: *noun*
+* **synonyms**: realization, fulfillment, attainment
+
+### Usage Example
+
+> Our plans to combat climate change have finally come to fruition.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/fruition/english/us), [UK English](https://youglish.com/pronounce/fruition/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | plnenie, naplnenie |
+
+---
+
+## Word: "as in"
+
+### General Information
+
+* **definition**: used to introduce a specific example or illustration
+* **category**: *idiom*
+* **synonyms**: such as, for instance, like
+
+### Usage Example
+
+> As in, oil is cheaper than soda.
+
+> Precision matters, as in the case of scientific reports.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/as%20in/english/us), [UK English](https://youglish.com/pronounce/as%20in/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | napríklad |
 
 
