@@ -1,0 +1,182 @@
+# --------------------------------------------------------------------------------------------------
+- word: "to ween off"
+  definition: "to gradually reduce or detach someone of something from dependence on something"
+  category: "verb"
+  synonyms:
+    - "withdraw"
+    - "detach"
+    - "phase out"
+  examples:
+    - "Reduce the dose gradually to ween off the probiotics safely."
+  translations:
+    - language: "slovak"
+      items:
+        - "odstaviť"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to budge"
+  definition: "to move slightly or to cause something to move, often implying resistance or difficulty in doing so"
+  category: "verb"
+  synonyms:
+    - "nudge"
+    - "shift"
+  examples:
+    - "Thanks to fertilizer and other improvements, American farmers now get more corn per unit of land than ever. But African farmers' yields have barely budged."
+  translations:
+    - language: "slovak"
+      items:
+        - "pohnúť sa"
+
+# --------------------------------------------------------------------------------------------------
+- word: "leeway"
+  definition: "the amount of freedom or flexibility to act within certain limits or constraints"
+  category: "noun"
+  synonyms:
+    - "margin"
+    - "freedom"
+    - "room"
+  examples:
+    - "As the sole author of this book, I have more leeway with terminology."
+    - "The project deadline provided some leeway for unforeseen circumstances."
+  translations:
+    - language: "slovak"
+      items:
+        - "priestor"
+
+# --------------------------------------------------------------------------------------------------
+- word: "compartment"
+  definition: "a separate division or section within a larger space, often used for organizing or storing items"
+  category: "noun"
+  synonyms:
+    - "chamber"
+    - "division"
+    - "partition"
+  examples:
+    - "There are four chamber inside the cow's stomach. These compartments allow the cow to eat grass and other plans that humans can't digest."
+  translations:
+    - language: "slovak"
+      items:
+        - "oddelenie"
+
+# --------------------------------------------------------------------------------------------------
+- word: "grim"
+  definition: "describes something that is gloomy, harsh, or depressing"
+  category: "adjective"
+  synonyms:
+    - "dismal"
+    - "bleak"
+  examples:
+    - "He painted a grim picture of the future that was far removed from the reality."
+  translations:
+    - language: "slovak"
+      items:
+        - "desivý"
+        - "ponurý"
+        - "zlovestný"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to scarf down"
+  definition: "to eat quickly and voraciously, often with little regard for manners or etiquette"
+  category: "verb"
+  synonyms:
+    - "devour"
+    - "wolf down"
+  examples:
+    - "I scarfed down countless lunches, dinner and late-night meals at the nearby restaurant."
+  translations:
+    - language: "slovak"
+      items:
+        - "rýchlo zožrať"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to chug along"
+  definition: "to move steadily forward, often with persistent effort or determination, despite obstacles or challenges"
+  category: "verb"
+  synonyms:
+    - "press ahead"
+    - "trudge forward"
+  examples:
+    - "The world is going to keep chugging along, making more steel, even as production basically plateaus in the United States."
+  translations:
+    - language: "slovak"
+      items:
+        - "pohnúť sa vpred"
+
+# --------------------------------------------------------------------------------------------------
+- word: "copious"
+  definition: "describes something that is abundant, plentiful, or in large quantities"
+  category: "adjective"
+  synonyms:
+    - "plentiful"
+    - "ample"
+  examples:
+    - "There's copious data to back up this claim."
+  translations:
+    - language: "slovak"
+      items:
+        - "hojný"
+
+# --------------------------------------------------------------------------------------------------
+- word: "buoyant"
+  definition: "having the ability to float or stay afloat; also used metaphorically to describe someone or something that is cheerful or optimistic"
+  category: "adjective"
+  synonyms:
+    - "floating"
+    - "cheerful"
+    - "optimistic"
+  examples:
+    - "It is buoyant enough to float on the surface."
+    - "Despite the challenging circumstances, her buoyant spirit lifted the morale of everyone around her."
+  translations:
+    - language: "slovak"
+      items:
+        - "plávajúci"
+        - "vznášajúci sa"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to pan out"
+  definition: "to unfold or develop in a particular way, especially with regard to success or failure"
+  category: "verb"
+  synonyms:
+    - "work out"
+    - "unfold"
+    - "turn out"
+  examples:
+    - "We probably don't need all of these ideas to pan out in order to decarbonize our power grid."
+    - "The idea panned out."
+  translations:
+    - language: "slovak"
+      items:
+        - "výjsť"
+        - "ryžovať"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to scoff"
+  definition: "to mock or ridicule someone or something in a contemptuous or scornful manner"
+  category: "verb"
+  synonyms:
+    - "mock"
+    - "deride"
+    - "scorn"
+  examples:
+    - "I used to scoff at the notion that using more power more efficiently would make a dent in climate change."
+  translations:
+    - language: "slovak"
+      items:
+        - "posmievať sa"
+
+# --------------------------------------------------------------------------------------------------
+- word: "truism"
+  definition: "statement that is obviously true and self-evident, often considered clichéd due to its lack of originality or depth"
+  category: "noun"
+  synonyms:
+    - "commonplace"
+    - "banality"
+    - "cliché"
+  examples:
+    - "There's the truism that as you take a technology to broad scale, it gets cheaper."
+  translations:
+    - language: "slovak"
+      items:
+        - "truizmus"
+        - "samozrejmosť"
