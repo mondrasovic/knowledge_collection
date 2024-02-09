@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-python -m http.server -d ../english/january_2024/export 8080
+python -m http.server -d ../english/$1/export 8080
