@@ -180,3 +180,62 @@
       items:
         - "truizmus"
         - "samozrejmosť"
+
+# --------------------------------------------------------------------------------------------------
+- word: "shelling"
+  definition: "the act of bombarding or attacking with shells, referring to artillery fire or bombing from aircraft"
+  category: "noun"
+  synonyms:
+    - "bombing"
+    - "bombardment"
+  examples:
+    - "The city endured constant shelling."
+  translations:
+    - language: "slovak"
+      items:
+        - "bombardovanie"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to scavenge"
+  definition: "to search for or collect usable items or materials from discarded or waste source"
+  category: "verb"
+  synonyms:
+    - "forage"
+    - "sift"
+  examples:
+    - "In the post-apocalyptic world, survivors had to scavange for food and supplies amidst the ruins of civilization."
+  translations:
+    - language: "slovak"
+      items:
+        - "vymetať"
+        - "snoriť"
+
+# --------------------------------------------------------------------------------------------------
+- word: "decrepit"
+  definition: "something that is worn out, or in a state of disrepair, often due to age or neglect"
+  category: "adjective"
+  synonyms:
+    - "deteriorated"
+    - "rundown"
+  examples:
+    - "The decrepit old mansion stood abandandon at the edge of town."
+  translations:
+    - language: "slovak"
+      items:
+        - "zdevastovaný"
+
+# --------------------------------------------------------------------------------------------------
+- word: "haul"
+  definition: "a sudden and swift attack of incursion, often carried out by a group of individual or law enforcement agencies"
+  category: "noun"
+  synonyms:
+    - "assault"
+    - "attack"
+    - "incursion"
+  examples:
+    - "There was a raid in our house while we were asleep."
+    - "The police conducted a raid on the illegal drug operation."
+  translations:
+    - language: "slovak"
+      items:
+        - "nájazd"
