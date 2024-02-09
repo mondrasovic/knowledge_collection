@@ -4,7 +4,7 @@ import abc
 import re
 from typing import TYPE_CHECKING
 
-from .utils import encode_url
+from .utils import encode_url, get_current_month_name
 
 if TYPE_CHECKING:
     from os import PathLike
@@ -29,7 +29,7 @@ class VSCodeRevealExporter(VocabularyExporter):
     @classmethod
     def vocabulary_to_markdown(cls, vocabulary: Vocabulary) -> str:
         title = "English Vocabulary"
-        subtitle = "Personal Collection - January 2024"
+        subtitle = f"Personal Collection - {get_current_month_name()} 2024"
         author = "Milan Ondrašovič"
 
         vocabulary_items_markdown = "---\n".join(

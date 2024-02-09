@@ -1,3 +1,6 @@
+from __future__ import annotations
+
+import datetime
 from urllib.parse import quote, urlparse, urlunparse
 
 
@@ -19,3 +22,8 @@ def encode_url(url: str) -> str:
     )
 
     return encoded_url
+
+
+def get_current_month_name() -> str:
+    return datetime.datetime.now().strftime("%B")
+
