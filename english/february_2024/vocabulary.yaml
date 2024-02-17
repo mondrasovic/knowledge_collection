@@ -239,3 +239,49 @@
     - language: "slovak"
       items:
         - "nájazd"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to make the case"
+  definition: "to provide evidence or arguments in support of a particular viewpoint or conclusion"
+  category: "verb"
+  synonyms:
+    - "argue"
+    - "advocate"
+    - "justify"
+  examples:
+    - "So far, I have been making the case that we need to get to zero carbon emissions."
+  translations:
+    - language: "slovak"
+      items:
+        - "obhájiť svoj názor"
+        - "presvedčiť"
+
+# --------------------------------------------------------------------------------------------------
+- word: "floodplain"
+  definition: "A flar ot nearly flat land adjacent to a stream or river"
+  category: "noun"
+  synonyms:
+    - "floodzone"
+    - "inundation area"
+  examples:
+    - "As see levels rise and floodplain change, we'll need to think where we put our houses."
+  translations:
+    - language: "slovak"
+      items:
+        - "záplavová zóna"
+
+# --------------------------------------------------------------------------------------------------
+- word: "barring"
+  definition: "except for, unless there is (a specified circumstance)"
+  category: "preposition"
+  synonyms:
+    - "except for"
+    - "excluding"
+    - "aside from"
+  examples:
+    - "Barring some unlikely breakthroughs, baterries will never be light and powerful enough to more planes."
+  translations:
+    - language: "slovak"
+      items:
+        - "s výnimkou"
+        - "okrem"
