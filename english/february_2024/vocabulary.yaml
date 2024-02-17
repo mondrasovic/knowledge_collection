@@ -285,3 +285,74 @@
       items:
         - "s výnimkou"
         - "okrem"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to shore up"
+  definition: "to support or to reinforce something"
+  category: "verb"
+  synonyms:
+    - "reinforce"
+    - "bolster"
+    - "fortify"
+  examples:
+    - "We'll need to shore up power grids, seaports, and bridges."
+  translations:
+    - language: "slovak"
+      items:
+        - "posilniť"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to make ends meet"
+  definition: "it means to have enough money to cover basic expense or to manage one's finance adequately"
+  category: "idiom"
+  synonyms:
+    - "get by"
+  examples:
+    - "They would work odd jobs to make ends meet."
+  translations:
+    - language: "slovak"
+      items:
+        - "vyžiť"
+
+# --------------------------------------------------------------------------------------------------
+- word: "acreage"
+  definition: "refers to the total area of a land"
+  category: "noun"
+  synonyms:
+    - "land area"
+  examples:
+    - "Crop-eating pests are already infesting more acreage as they find more hospitable environments to live in."
+  translations:
+    - language: "slovak"
+      items:
+        - "rozloha"
+
+# --------------------------------------------------------------------------------------------------
+- word: "stunting"
+  definition: "typically refers to the failure of a child to grow or develop properly due to malnutrition"
+  category: "noun"
+  synonyms:
+    - "impairment"
+    - "inhibition"
+    - "retardation"
+  examples:
+    - "Children will be far more likely to suffer from stunting, i.e., to not properly develop physically or mentally."
+  translations:
+    - language: "slovak"
+      items:
+        - "zakrpatenie"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to double down"
+  definition: "it means to intensify one's efforts or commitment to a particular course of action"
+  category: "verb"
+  synonyms:
+    - "reinforce"
+    - "strenghten"
+  examples:
+    - "We need to double down on malaria prevention."
+    - "We have to double down on upselling our customers."
+  translations:
+    - language: "slovak"
+      items:
+        - "zamerať sa"
