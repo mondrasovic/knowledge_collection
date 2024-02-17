@@ -356,3 +356,88 @@
     - language: "slovak"
       items:
         - "zamerať sa"
+
+# --------------------------------------------------------------------------------------------------
+- word: "penchant"
+  definition: "refers to a strong inclination or liking for something"
+  category: "noun"
+  synonyms:
+    - "preference"
+    - "relish"
+    - "predilection"
+  examples:
+    - "Despite its penchant for alphabet soup."
+  translations:
+    - language: "slovak"
+      items:
+        - "záľuba"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to eke out"
+  definition: "means to barely manage to make enough of something"
+  category: "verb"
+  synonyms:
+    - "barely make ends meet"
+    - "squeeze out"
+  examples:
+    - "If you're eking out a living, you won't be willing to take risks on seeds you have never planted before."
+  translations:
+    - language: "slovak"
+      items:
+        - "vyžmýkať"
+
+# --------------------------------------------------------------------------------------------------
+- word: "drought-stricken"
+  definition: "describes an area or region that has been severely affected by a prolonged period of drought"
+  category: "adjective"
+  synonyms:
+    - "drought-affected"
+    - "drought-ravaged"
+  examples:
+    - "Farmers in the drought-stricken areas."
+  translations:
+    - language: "slovak"
+      items:
+        - "suchom postihnutý"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to funnel into"
+  definition: "means to direct or channel something, such as resources, funds, or people into a specific area"
+  category: "verb"
+  synonyms:
+    - "channel into"
+    - "direct into"
+  examples:
+    - "Very little money is funneled into helping farmers adapt."
+  translations:
+    - language: "slovak"
+      items:
+        - "smerovať do"
+        - "sústrediť do"
+
+# --------------------------------------------------------------------------------------------------
+- word: "bulwark"
+  definition: "refers to a defensive wall or barrier"
+  category: "noun"
+  synonyms:
+    - "rampart"
+    - "fortress"
+  examples:
+    - "Protecting wetlands as a bulwark against flooding."
+  translations:
+    - language: "slovak"
+      items:
+        - "opevnenie"
+
+# --------------------------------------------------------------------------------------------------
+- word: "potable"
+  definition: "described something, usually water, that is safe and suitable for drinking"
+  category: "adjective"
+  synonyms:
+    - "drinkable"
+  examples:
+    - "It's getting harder to provide potable water to everyone who needs it."
+  translations:
+    - language: "slovak"
+      items:
+        - "pitný"
