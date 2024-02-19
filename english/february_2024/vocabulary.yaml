@@ -441,3 +441,47 @@
     - language: "slovak"
       items:
         - "pitný"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to reverberate"
+  definition: "it means to resound or echo loudly, often referring to sounds or noises that persist"
+  category: "verb"
+  synonyms:
+    - "resound"
+    - "echo"
+  examples:
+    - "The applause reverberated throughout the auditorioum."
+  translations:
+    - language: "slovak"
+      items:
+        - "odnieť" 
+
+# --------------------------------------------------------------------------------------------------
+- word: "to take stock of"
+  definition: "it means to assess or evaluate the situation"
+  category: "verb"
+  synonyms:
+    - "assess"
+    - "evaluate"
+  examples:
+    - "Take stock of what you have learned so far."
+  translations:
+    - language: "slovak"
+      items:
+        - "urobiť si bilanciu"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to laude"
+  definition: "it means to appraise someone or something"
+  category: "verb"
+  synonyms:
+    - "praise"
+    - "commend"
+    - "applaud"
+  examples:
+    - "Twitter published its own press release, lauding Super Bowl as one of the biggest events ever."
+  translations:
+    - language: "slovak"
+      items:
+        - "oslavovať"
+        - "vychvaľovať"
