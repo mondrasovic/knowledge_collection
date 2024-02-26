@@ -485,3 +485,135 @@
       items:
         - "oslavovať"
         - "vychvaľovať"
+
+# --------------------------------------------------------------------------------------------------
+- word: "looting"
+  definition: "the act of stealing goods from a place, typically during a time of chaos, such as riot, war, or natural disaster"
+  category: "noun"
+  synonyms:
+    - "ransacking"
+    - "plundering"
+  examples:
+    - "Looting was rampant because the police couldn't see more than a few feet in any direction."
+    - "Looting can have severe consequences."
+  translations:
+    - language: "slovak"
+      items:
+        - "rabovanie"
+        - "plienenie"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to enact"
+  definition: "to make a bill or proposal officially become law by the authority of a legislative body"
+  category: "verb"
+  synonyms:
+    - "ratify"
+    - "pass"
+  examples:
+    - "The Britist government enacted the Clean Air Act."
+  translations:
+    - language: "slovak"
+      items:
+        - "uzákoniť"
+        - "vyhlásiť"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to sweep across"
+  definition: "it means to move or spread quickly and widely across an area, often with great force or intensity"
+  category: "phrasal verb"
+  synonyms:
+    - "to surge across"
+    - "to race across"
+  examples:
+    - "Wildfires swept across the western United States."
+  translations:
+    - language: "slovak"
+      items:
+        - "prehnať sa cez"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to start with a blank slate"
+  definition: "it means to begin with no preconceived ideas, knowledge, or expectation, practically from scratch"
+  category: "phrasal verb"
+  synonyms:
+    - "to start from scratch"
+  examples:
+    - "We're not starting with a blank slate at all."
+  translations:
+    - language: "slovak"
+      items:
+        - "začať s čistým štítom"
+
+# --------------------------------------------------------------------------------------------------
+- word: "bust"
+  definition: "it described a failure or disappointment, especially after high expectations"
+  category: "noun"
+  synonyms:
+    - "fiasco"
+    - "disappointment"
+  examples:
+    - "It might be a big breakthrough, but it also might be a bust, so we'll need to tolerate some outright failures."
+  translations:
+    - language: "slovak"
+      items:
+        - "prepadák"
+        - "zlyhanie"
+        - "fiasko"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to be borne by"
+  definition: "it means that something is carried or supported by someone of something, typically in a form of a burden"
+  category: "phrasal verb"
+  synonyms:
+    - "It is an expense that is borne by the society rather than the person or business who's responsible for it."
+  examples:
+    - "In a fair society, the burden of taxation should be borne by those who can afford it most."
+  translations:
+    - language: "slovak"
+      items:
+        - "nesený"
+        - "znášaný"
+
+# --------------------------------------------------------------------------------------------------
+- word: "landlord"
+  definition: "a person or entity that owns property and rents or leases it to another person"
+  category: "noun"
+  synonyms:
+    - "landholder"
+    - "property owner"
+  examples:
+    - "Why won't landlords upgrade their building with more efficient appliances?"
+  translations:
+    - language: "slovak"
+      items:
+        - "majiteľ domu/bytu"
+        - "pán domu"
+
+# --------------------------------------------------------------------------------------------------
+- word: "tenant"
+  definition: "it is a person or entity that occupies or rents property from a landlord"
+  category: "noun"
+  synonyms:
+    - "renter"
+    - "occupant"
+  examples:
+    - "The landlords pass their energy bill on to their tenants."
+  translations:
+    - language: "slovak"
+      items:
+        - "nájomník"
+        - "nájomca"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to be out of whack"
+  definition: "it means to be not functioning correctly or in a proper order"
+  category: "idiom"
+  synonyms:
+    - "out of order"
+  examples:
+    - "The market is out of whack."
+    - "The timing of the project was out of whack due to unexpected delays in the supply chain."
+  translations:
+    - language: "slovak"
+      items:
+        - "mimo rovnováhu"
