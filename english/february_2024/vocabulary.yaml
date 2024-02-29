@@ -52,7 +52,8 @@
     - "division"
     - "partition"
   examples:
-    - "There are four chamber inside the cow's stomach. These compartments allow the cow to eat grass and other plans that humans can't digest."
+    - "There are four chambers inside the cow's stomach. These compartments allow the cow to eat grass and other plants that humans can't digest."
+    - "There is a hidden compartment behind that shelf."
   translations:
     - language: "slovak"
       items:
@@ -77,12 +78,12 @@
 # --------------------------------------------------------------------------------------------------
 - word: "to scarf down"
   definition: "to eat quickly and voraciously, often with little regard for manners or etiquette"
-  category: "verb"
+  category: "phrasal verb"
   synonyms:
     - "devour"
     - "wolf down"
   examples:
-    - "I scarfed down countless lunches, dinner and late-night meals at the nearby restaurant."
+    - "I scarfed down countless lunches, dinners and late-night meals at the nearby restaurant."
   translations:
     - language: "slovak"
       items:
@@ -91,10 +92,12 @@
 # --------------------------------------------------------------------------------------------------
 - word: "to chug along"
   definition: "to move steadily forward, often with persistent effort or determination, despite obstacles or challenges"
-  category: "verb"
+  category: "phrasal verb"
   synonyms:
     - "press ahead"
     - "trudge forward"
+    - "continue on"
+    - "carry on"
   examples:
     - "The world is going to keep chugging along, making more steel, even as production basically plateaus in the United States."
   translations:
@@ -136,7 +139,7 @@
 # --------------------------------------------------------------------------------------------------
 - word: "to pan out"
   definition: "to unfold or develop in a particular way, especially with regard to success or failure"
-  category: "verb"
+  category: "phrasal verb"
   synonyms:
     - "work out"
     - "unfold"
@@ -167,7 +170,7 @@
 
 # --------------------------------------------------------------------------------------------------
 - word: "truism"
-  definition: "statement that is obviously true and self-evident, often considered clichéd due to its lack of originality or depth"
+  definition: "statement that is obviously true and self-evident, often considered cliché due to its lack of originality or depth"
   category: "noun"
   synonyms:
     - "commonplace"
@@ -218,14 +221,14 @@
     - "deteriorated"
     - "rundown"
   examples:
-    - "The decrepit old mansion stood abandandon at the edge of town."
+    - "The decrepit old mansion stood abandoned at the edge of town."
   translations:
     - language: "slovak"
       items:
         - "zdevastovaný"
 
 # --------------------------------------------------------------------------------------------------
-- word: "haul"
+- word: "raid"
   definition: "a sudden and swift attack of incursion, often carried out by a group of individual or law enforcement agencies"
   category: "noun"
   synonyms:
@@ -243,7 +246,7 @@
 # --------------------------------------------------------------------------------------------------
 - word: "to make the case"
   definition: "to provide evidence or arguments in support of a particular viewpoint or conclusion"
-  category: "verb"
+  category: "phrasal verb"
   synonyms:
     - "argue"
     - "advocate"
@@ -258,13 +261,13 @@
 
 # --------------------------------------------------------------------------------------------------
 - word: "floodplain"
-  definition: "A flar ot nearly flat land adjacent to a stream or river"
+  definition: "a flat or nearly flat land adjacent to a stream or river"
   category: "noun"
   synonyms:
     - "floodzone"
     - "inundation area"
   examples:
-    - "As see levels rise and floodplain change, we'll need to think where we put our houses."
+    - "As sea levels rise and floodplains change, we'll need to think where we put our houses."
   translations:
     - language: "slovak"
       items:

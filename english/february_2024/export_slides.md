@@ -354,4 +354,346 @@ Created by *Milan Ondrašovič*
 | -------- | ------------ |
 | *Slovak* | nájazd |
 
+---
+
+## Word: "to make the case"
+
+### General Information
+
+* **definition**: to provide evidence or arguments in support of a particular viewpoint or conclusion
+* **category**: *verb*
+* **synonyms**: argue, advocate, justify
+
+### Usage Example
+
+> So far, I have been making the case that we need to get to zero carbon emissions.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/make%20the%20case/english/us), [UK English](https://youglish.com/pronounce/make%20the%20case/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | obhájiť svoj názor, presvedčiť |
+
+---
+
+## Word: "floodplain"
+
+### General Information
+
+* **definition**: A flar ot nearly flat land adjacent to a stream or river
+* **category**: *noun*
+* **synonyms**: floodzone, inundation area
+
+### Usage Example
+
+> As see levels rise and floodplain change, we'll need to think where we put our houses.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/floodplain/english/us), [UK English](https://youglish.com/pronounce/floodplain/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | záplavová zóna |
+
+---
+
+## Word: "barring"
+
+### General Information
+
+* **definition**: except for, unless there is (a specified circumstance)
+* **category**: *preposition*
+* **synonyms**: except for, excluding, aside from
+
+### Usage Example
+
+> Barring some unlikely breakthroughs, baterries will never be light and powerful enough to more planes.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/barring/english/us), [UK English](https://youglish.com/pronounce/barring/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | s výnimkou, okrem |
+
+---
+
+## Word: "to shore up"
+
+### General Information
+
+* **definition**: to support or to reinforce something
+* **category**: *verb*
+* **synonyms**: reinforce, bolster, fortify
+
+### Usage Example
+
+> We'll need to shore up power grids, seaports, and bridges.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/shore%20up/english/us), [UK English](https://youglish.com/pronounce/shore%20up/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | posilniť |
+
+---
+
+## Word: "to make ends meet"
+
+### General Information
+
+* **definition**: it means to have enough money to cover basic expense or to manage one's finance adequately
+* **category**: *idiom*
+* **synonyms**: get by
+
+### Usage Example
+
+> They would work odd jobs to make ends meet.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/make%20ends%20meet/english/us), [UK English](https://youglish.com/pronounce/make%20ends%20meet/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | vyžiť |
+
+---
+
+## Word: "acreage"
+
+### General Information
+
+* **definition**: refers to the total area of a land
+* **category**: *noun*
+* **synonyms**: land area
+
+### Usage Example
+
+> Crop-eating pests are already infesting more acreage as they find more hospitable environments to live in.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/acreage/english/us), [UK English](https://youglish.com/pronounce/acreage/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | rozloha |
+
+---
+
+## Word: "stunting"
+
+### General Information
+
+* **definition**: typically refers to the failure of a child to grow or develop properly due to malnutrition
+* **category**: *noun*
+* **synonyms**: impairment, inhibition, retardation
+
+### Usage Example
+
+> Children will be far more likely to suffer from stunting, i.e., to not properly develop physically or mentally.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/stunting/english/us), [UK English](https://youglish.com/pronounce/stunting/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | zakrpatenie |
+
+---
+
+## Word: "to double down"
+
+### General Information
+
+* **definition**: it means to intensify one's efforts or commitment to a particular course of action
+* **category**: *verb*
+* **synonyms**: reinforce, strenghten
+
+### Usage Example
+
+> We need to double down on malaria prevention.
+
+> We have to double down on upselling our customers.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/double%20down/english/us), [UK English](https://youglish.com/pronounce/double%20down/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | zamerať sa |
+
+---
+
+## Word: "penchant"
+
+### General Information
+
+* **definition**: refers to a strong inclination or liking for something
+* **category**: *noun*
+* **synonyms**: preference, relish, predilection
+
+### Usage Example
+
+> Despite its penchant for alphabet soup.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/penchant/english/us), [UK English](https://youglish.com/pronounce/penchant/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | záľuba |
+
+---
+
+## Word: "to eke out"
+
+### General Information
+
+* **definition**: means to barely manage to make enough of something
+* **category**: *verb*
+* **synonyms**: barely make ends meet, squeeze out
+
+### Usage Example
+
+> If you're eking out a living, you won't be willing to take risks on seeds you have never planted before.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/eke%20out/english/us), [UK English](https://youglish.com/pronounce/eke%20out/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | vyžmýkať |
+
+---
+
+## Word: "drought-stricken"
+
+### General Information
+
+* **definition**: describes an area or region that has been severely affected by a prolonged period of drought
+* **category**: *adjective*
+* **synonyms**: drought-affected, drought-ravaged
+
+### Usage Example
+
+> Farmers in the drought-stricken areas.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/drought-stricken/english/us), [UK English](https://youglish.com/pronounce/drought-stricken/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | suchom postihnutý |
+
+---
+
+## Word: "to funnel into"
+
+### General Information
+
+* **definition**: means to direct or channel something, such as resources, funds, or people into a specific area
+* **category**: *verb*
+* **synonyms**: channel into, direct into
+
+### Usage Example
+
+> Very little money is funneled into helping farmers adapt.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/funnel%20into/english/us), [UK English](https://youglish.com/pronounce/funnel%20into/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | smerovať do, sústrediť do |
+
+---
+
+## Word: "bulwark"
+
+### General Information
+
+* **definition**: refers to a defensive wall or barrier
+* **category**: *noun*
+* **synonyms**: rampart, fortress
+
+### Usage Example
+
+> Protecting wetlands as a bulwark against flooding.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/bulwark/english/us), [UK English](https://youglish.com/pronounce/bulwark/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | opevnenie |
+
+---
+
+## Word: "potable"
+
+### General Information
+
+* **definition**: described something, usually water, that is safe and suitable for drinking
+* **category**: *adjective*
+* **synonyms**: drinkable
+
+### Usage Example
+
+> It's getting harder to provide potable water to everyone who needs it.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/potable/english/us), [UK English](https://youglish.com/pronounce/potable/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | pitný |
+
+---
+
+## Word: "to reverberate"
+
+### General Information
+
+* **definition**: it means to resound or echo loudly, often referring to sounds or noises that persist
+* **category**: *verb*
+* **synonyms**: resound, echo
+
+### Usage Example
+
+> The applause reverberated throughout the auditorioum.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/reverberate/english/us), [UK English](https://youglish.com/pronounce/reverberate/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | odnieť |
+
+---
+
+## Word: "to take stock of"
+
+### General Information
+
+* **definition**: it means to assess or evaluate the situation
+* **category**: *verb*
+* **synonyms**: assess, evaluate
+
+### Usage Example
+
+> Take stock of what you have learned so far.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/take%20stock%20of/english/us), [UK English](https://youglish.com/pronounce/take%20stock%20of/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | urobiť si bilanciu |
+
+---
+
+## Word: "to laude"
+
+### General Information
+
+* **definition**: it means to appraise someone or something
+* **category**: *verb*
+* **synonyms**: praise, commend, applaud
+
+### Usage Example
+
+> Twitter published its own press release, lauding Super Bowl as one of the biggest events ever.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/laude/english/us), [UK English](https://youglish.com/pronounce/laude/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | oslavovať, vychvaľovať |
+
 

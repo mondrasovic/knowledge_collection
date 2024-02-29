@@ -36,8 +36,10 @@ class Language(EnumInitFromStrMixin, StrEnumMixin, enum.Enum):
 class WordCategory(EnumInitFromStrMixin, StrEnumMixin, enum.Enum):
     NOUN = "noun"
     VERB = "verb"
+    PHRASAL_VERB = "phrasal verb"
     ADJECTIVE = "adjective"
     IDIOM = "idiom"
+    PREPOSITION = "preposition"
 
 
 @dataclasses.dataclass(frozen=True, eq=True)
