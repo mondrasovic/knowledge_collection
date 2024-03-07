@@ -1,5 +1,5 @@
 ---
-title: English Vocabulary - Personal Collection - February 2024
+title: English Vocabulary - Personal Collection - March 2024
 author: Milan Ondrašovič
 format: revealjs
 theme: moon
@@ -21,7 +21,7 @@ height: 1080
 
 # English Vocabulary
 
-## Personal Collection - February 2024
+## Personal Collection - March 2024
 
 Created by *Milan Ondrašovič*
 
@@ -100,7 +100,9 @@ Created by *Milan Ondrašovič*
 
 ### Usage Example
 
-> There are four chamber inside the cow's stomach. These compartments allow the cow to eat grass and other plans that humans can't digest.
+> There are four chambers inside the cow's stomach. These compartments allow the cow to eat grass and other plants that humans can't digest.
+
+> There is a hidden compartment behind that shelf.
 
 **Pronunciation**: [US English](https://youglish.com/pronounce/compartment/english/us), [UK English](https://youglish.com/pronounce/compartment/english/uk)
 
@@ -135,12 +137,12 @@ Created by *Milan Ondrašovič*
 ### General Information
 
 * **definition**: to eat quickly and voraciously, often with little regard for manners or etiquette
-* **category**: *verb*
+* **category**: *phrasal verb*
 * **synonyms**: devour, wolf down
 
 ### Usage Example
 
-> I scarfed down countless lunches, dinner and late-night meals at the nearby restaurant.
+> I scarfed down countless lunches, dinners and late-night meals at the nearby restaurant.
 
 **Pronunciation**: [US English](https://youglish.com/pronounce/scarf%20down/english/us), [UK English](https://youglish.com/pronounce/scarf%20down/english/uk)
 
@@ -155,8 +157,8 @@ Created by *Milan Ondrašovič*
 ### General Information
 
 * **definition**: to move steadily forward, often with persistent effort or determination, despite obstacles or challenges
-* **category**: *verb*
-* **synonyms**: press ahead, trudge forward
+* **category**: *phrasal verb*
+* **synonyms**: press ahead, trudge forward, continue on, carry on
 
 ### Usage Example
 
@@ -217,7 +219,7 @@ Created by *Milan Ondrašovič*
 ### General Information
 
 * **definition**: to unfold or develop in a particular way, especially with regard to success or failure
-* **category**: *verb*
+* **category**: *phrasal verb*
 * **synonyms**: work out, unfold, turn out
 
 ### Usage Example
@@ -258,7 +260,7 @@ Created by *Milan Ondrašovič*
 
 ### General Information
 
-* **definition**: statement that is obviously true and self-evident, often considered clichéd due to its lack of originality or depth
+* **definition**: statement that is obviously true and self-evident, often considered cliché due to its lack of originality or depth
 * **category**: *noun*
 * **synonyms**: commonplace, banality, cliché
 
@@ -324,7 +326,7 @@ Created by *Milan Ondrašovič*
 
 ### Usage Example
 
-> The decrepit old mansion stood abandandon at the edge of town.
+> The decrepit old mansion stood abandoned at the edge of town.
 
 **Pronunciation**: [US English](https://youglish.com/pronounce/decrepit/english/us), [UK English](https://youglish.com/pronounce/decrepit/english/uk)
 
@@ -334,7 +336,7 @@ Created by *Milan Ondrašovič*
 
 ---
 
-## Word: "haul"
+## Word: "raid"
 
 ### General Information
 
@@ -348,7 +350,7 @@ Created by *Milan Ondrašovič*
 
 > The police conducted a raid on the illegal drug operation.
 
-**Pronunciation**: [US English](https://youglish.com/pronounce/haul/english/us), [UK English](https://youglish.com/pronounce/haul/english/uk)
+**Pronunciation**: [US English](https://youglish.com/pronounce/raid/english/us), [UK English](https://youglish.com/pronounce/raid/english/uk)
 
 | Language | Translation(s) |
 | -------- | ------------ |
@@ -361,7 +363,7 @@ Created by *Milan Ondrašovič*
 ### General Information
 
 * **definition**: to provide evidence or arguments in support of a particular viewpoint or conclusion
-* **category**: *verb*
+* **category**: *phrasal verb*
 * **synonyms**: argue, advocate, justify
 
 ### Usage Example
@@ -380,13 +382,13 @@ Created by *Milan Ondrašovič*
 
 ### General Information
 
-* **definition**: A flar ot nearly flat land adjacent to a stream or river
+* **definition**: a flat or nearly flat land adjacent to a stream or river
 * **category**: *noun*
 * **synonyms**: floodzone, inundation area
 
 ### Usage Example
 
-> As see levels rise and floodplain change, we'll need to think where we put our houses.
+> As sea levels rise and floodplains change, we'll need to think where we put our houses.
 
 **Pronunciation**: [US English](https://youglish.com/pronounce/floodplain/english/us), [UK English](https://youglish.com/pronounce/floodplain/english/uk)
 
@@ -695,5 +697,189 @@ Created by *Milan Ondrašovič*
 | Language | Translation(s) |
 | -------- | ------------ |
 | *Slovak* | oslavovať, vychvaľovať |
+
+---
+
+## Word: "looting"
+
+### General Information
+
+* **definition**: the act of stealing goods from a place, typically during a time of chaos, such as riot, war, or natural disaster
+* **category**: *noun*
+* **synonyms**: ransacking, plundering
+
+### Usage Example
+
+> Looting was rampant because the police couldn't see more than a few feet in any direction.
+
+> Looting can have severe consequences.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/looting/english/us), [UK English](https://youglish.com/pronounce/looting/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | rabovanie, plienenie |
+
+---
+
+## Word: "to enact"
+
+### General Information
+
+* **definition**: to make a bill or proposal officially become law by the authority of a legislative body
+* **category**: *verb*
+* **synonyms**: ratify, pass
+
+### Usage Example
+
+> The Britist government enacted the Clean Air Act.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/enact/english/us), [UK English](https://youglish.com/pronounce/enact/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | uzákoniť, vyhlásiť |
+
+---
+
+## Word: "to sweep across"
+
+### General Information
+
+* **definition**: it means to move or spread quickly and widely across an area, often with great force or intensity
+* **category**: *phrasal verb*
+* **synonyms**: to surge across, to race across
+
+### Usage Example
+
+> Wildfires swept across the western United States.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/sweep%20across/english/us), [UK English](https://youglish.com/pronounce/sweep%20across/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | prehnať sa cez |
+
+---
+
+## Word: "to start with a blank slate"
+
+### General Information
+
+* **definition**: it means to begin with no preconceived ideas, knowledge, or expectation, practically from scratch
+* **category**: *phrasal verb*
+* **synonyms**: to start from scratch
+
+### Usage Example
+
+> We're not starting with a blank slate at all.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/start%20with%20a%20blank%20slate/english/us), [UK English](https://youglish.com/pronounce/start%20with%20a%20blank%20slate/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | začať s čistým štítom |
+
+---
+
+## Word: "bust"
+
+### General Information
+
+* **definition**: it described a failure or disappointment, especially after high expectations
+* **category**: *noun*
+* **synonyms**: fiasco, disappointment
+
+### Usage Example
+
+> It might be a big breakthrough, but it also might be a bust, so we'll need to tolerate some outright failures.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/bust/english/us), [UK English](https://youglish.com/pronounce/bust/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | prepadák, zlyhanie, fiasko |
+
+---
+
+## Word: "to be borne by"
+
+### General Information
+
+* **definition**: it means that something is carried or supported by someone of something, typically in a form of a burden
+* **category**: *phrasal verb*
+* **synonyms**: It is an expense that is borne by the society rather than the person or business who's responsible for it.
+
+### Usage Example
+
+> In a fair society, the burden of taxation should be borne by those who can afford it most.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/be%20borne%20by/english/us), [UK English](https://youglish.com/pronounce/be%20borne%20by/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | nesený, znášaný |
+
+---
+
+## Word: "landlord"
+
+### General Information
+
+* **definition**: a person or entity that owns property and rents or leases it to another person
+* **category**: *noun*
+* **synonyms**: landholder, property owner
+
+### Usage Example
+
+> Why won't landlords upgrade their building with more efficient appliances?
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/landlord/english/us), [UK English](https://youglish.com/pronounce/landlord/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | majiteľ domu/bytu, pán domu |
+
+---
+
+## Word: "tenant"
+
+### General Information
+
+* **definition**: it is a person or entity that occupies or rents property from a landlord
+* **category**: *noun*
+* **synonyms**: renter, occupant
+
+### Usage Example
+
+> The landlords pass their energy bill on to their tenants.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/tenant/english/us), [UK English](https://youglish.com/pronounce/tenant/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | nájomník, nájomca |
+
+---
+
+## Word: "to be out of whack"
+
+### General Information
+
+* **definition**: it means to be not functioning correctly or in a proper order
+* **category**: *idiom*
+* **synonyms**: out of order
+
+### Usage Example
+
+> The market is out of whack.
+
+> The timing of the project was out of whack due to unexpected delays in the supply chain.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/be%20out%20of%20whack/english/us), [UK English](https://youglish.com/pronounce/be%20out%20of%20whack/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | mimo rovnováhu |
 
 
