@@ -340,6 +340,7 @@
     - "retardation"
   examples:
     - "Children will be far more likely to suffer from stunting, i.e., to not properly develop physically or mentally."
+    - "Too much caffeine will stunt your growth."
   translations:
     - language: "slovak"
       items:
@@ -355,6 +356,7 @@
   examples:
     - "We need to double down on malaria prevention."
     - "We have to double down on upselling our customers."
+    - "She doubled down instead of apologizing that she had done nothing wrong."
   translations:
     - language: "slovak"
       items:
@@ -370,6 +372,7 @@
     - "predilection"
   examples:
     - "Despite its penchant for alphabet soup."
+    - "She has a penchant for trouble."
   translations:
     - language: "slovak"
       items:
@@ -437,7 +440,7 @@
   definition: "described something, usually water, that is safe and suitable for drinking"
   category: "adjective"
   synonyms:
-    - "drinkable"
+    - "drinking"
   examples:
     - "It's getting harder to provide potable water to everyone who needs it."
   translations:
@@ -457,7 +460,7 @@
   translations:
     - language: "slovak"
       items:
-        - "odnieť" 
+        - "odznieť" 
 
 # --------------------------------------------------------------------------------------------------
 - word: "to take stock of"
