@@ -26,4 +26,3 @@ def encode_url(url: str) -> str:
 
 def get_current_month_name() -> str:
     return datetime.datetime.now().strftime("%B")
-

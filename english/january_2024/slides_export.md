@@ -1,8 +1,8 @@
 ---
-title: English Vocabulary - Personal Collection - January 2024
+title: English Vocabulary - Personal Collection - March 2024
 author: Milan Ondrašovič
 format: revealjs
-theme: moon
+theme: night
 highlight-style: base16-tomorrow
 defaultTiming: 140
 width: 1920
@@ -21,7 +21,7 @@ height: 1080
 
 # English Vocabulary
 
-## Personal Collection - January 2024
+## Personal Collection - March 2024
 
 Created by *Milan Ondrašovič*
 
@@ -30,13 +30,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "overarching"
 
-### General Information
-
 * **definition**: something that includes or encompasses everything
 * **category**: *adjective*
 * **synonyms**: comprehensive, global, encompassing
-
-### Usage Example
 
 > There is no overarching organ overseeing the production of supplements.
 
@@ -50,13 +46,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "casing"
 
-### General Information
-
 * **definition**: protective covering or outer layer, often used to enclose an object
 * **category**: *noun*
 * **synonyms**: sheath, covering, encasement
-
-### Usage Example
 
 > Since the pill casing is low-quality, unnecessary fillers need to protect its contents.
 
@@ -70,13 +62,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "to stand someone in a good stead"
 
-### General Information
-
 * **definition**: to be of great use for someone, or to end up in a good position thanks to something
 * **category**: *idiom*
 * **synonyms**: advantageous, beneficial
-
-### Usage Example
 
 > Embarking on a well-rounded education stood me in a good stead throughout my career.
 
@@ -90,13 +78,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "to chime in"
 
-### General Information
-
 * **definition**: to speak in a conversation or add something to it
 * **category**: *verb*
 * **synonyms**: contribute, join in, interject
-
-### Usage Example
 
 > I would like more researchers and engineers to chime in.
 
@@ -112,13 +96,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "be slated to"
 
-### General Information
-
 * **definition**: if something is slated to happen, then it is planned (scheduled) to happen in the future
 * **category**: *verb*
 * **synonyms**: be scheduled for, be planned for
-
-### Usage Example
 
 > The meeting regarding team synchronization is slated to happen tomorrow.
 
@@ -134,13 +114,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "severance payment"
 
-### General Information
-
 * **definition**: it refers to a financial package or compensation that an employer provides to an employee upon termination of employment
 * **category**: *noun*
 * **synonyms**: severance package, termination pay, exit compensation
-
-### Usage Example
 
 > My employee has offered me a generous severance payment.
 
@@ -154,13 +130,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "to expedite"
 
-### General Information
-
 * **definition**: to make a process or action happen more quickly and efficiently
 * **category**: *verb*
 * **synonyms**: accelerate, hasten
-
-### Usage Example
 
 > We have devised this approach to expedite the dissemination of our results.
 
@@ -174,13 +146,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "to take issue with"
 
-### General Information
-
 * **definition**: it means to have a problem with something (some aspect of a plan, etc.)
 * **category**: *idiom*
 * **synonyms**: dispute, object, contest
-
-### Usage Example
 
 > I take no issue with the solution you proposed.
 
@@ -194,13 +162,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "to come to terms with"
 
-### General Information
-
 * **definition**: to accept something
 * **category**: *idiom*
 * **synonyms**: accept, make peace with, embrace
-
-### Usage Example
 
 > I have come to terms with my diet and lifestyle.
 
@@ -214,13 +178,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "as it stands"
 
-### General Information
-
 * **definition**: in its current state or condition
 * **category**: *idiom*
 * **synonyms**: currently, at the moment
-
-### Usage Example
 
 > As it stands, the project deadline is just around the corner.
 
@@ -234,13 +194,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "turkey wattle"
 
-### General Information
-
 * **definition**: fleshy, wrinkled skin of a turkey on its neck
 * **category**: *noun*
 * **synonyms**: caruncle
-
-### Usage Example
 
 > I saw a giant turkey with its wattle vibrant with the hues of red and blue color
 
@@ -254,13 +210,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "bells and whistles"
 
-### General Information
-
 * **definition**: describes extra, often unnecessary features or embellishments added to something
 * **category**: *idiom*
 * **synonyms**: extravagances, add-ons
-
-### Usage Example
 
 > The smartphone has all the bells and whistles one may wish for.
 
@@ -274,13 +226,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "smörgåsbord"
 
-### General Information
-
 * **definition**: a buffet-style meal of Swedish origin, served with various hot and cold dishes
 * **category**: *noun*
 * **synonyms**: buffet, feast, all-you-can-eat
-
-### Usage Example
 
 > The celebration was a delightful smörgåsbord of flavors and colors
 
@@ -294,13 +242,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "highlights reel"
 
-### General Information
-
 * **definition**: refers to a compilation of the most exciting, memorable, or noteworthy moments
 * **category**: *noun*
 * **synonyms**: defining moments
-
-### Usage Example
 
 > Here's the highlights reel of what you can expect during the upcoming winter week.
 
@@ -316,13 +260,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "to flesh out"
 
-### General Information
-
 * **definition**: add more details and information to something, make it more comprehensive, etc.
 * **category**: *verb*
 * **synonyms**: elaborate, develop
-
-### Usage Example
 
 > He fleshed out a plan to significantly improve our outbound marketing.
 
@@ -336,13 +276,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "one fell swoop"
 
-### General Information
-
 * **definition**: to do something swiftly and in a single decisive action
 * **category**: *idiom*
 * **synonyms**: single stroke, swift action
-
-### Usage Example
 
 > We ended up cutting large swaths of features out of the product in one fell swoop.
 
@@ -356,13 +292,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "to draw on"
 
-### General Information
-
 * **definition**: to utilize or make use of something, often resources, knowledge, or experience
 * **category**: *verb*
 * **synonyms**: utilize, harness
-
-### Usage Example
 
 > Drawing on his understanding of innovation and what it takes to get new ideas into the market
 
@@ -376,13 +308,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "to set out something"
 
-### General Information
-
 * **definition**: outline, present, or establish
-* **category**: *verb*
+* **category**: *phrasal verb*
 * **synonyms**: present, outline, lay out
-
-### Usage Example
 
 > He sets out a wide-ranging, practical and accessible plan for how the world can get to zero greenhouse gas emissions in time.
 
@@ -396,13 +324,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "make a dent"
 
-### General Information
-
 * **definition**: to make progress or to have a noticeable impact
 * **category**: *idiom*
 * **synonyms**: make a differene, make an impact, leave a mark
-
-### Usage Example
 
 > The current commitments will not make a huge dent in emissions.
 
@@ -416,13 +340,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "fruition"
 
-### General Information
-
 * **definition**: the point at which a plan or project is realized
 * **category**: *noun*
 * **synonyms**: realization, fulfillment, attainment
-
-### Usage Example
 
 > Our plans to combat climate change have finally come to fruition.
 
@@ -436,13 +356,9 @@ Created by *Milan Ondrašovič*
 
 ## Word: "as in"
 
-### General Information
-
 * **definition**: used to introduce a specific example or illustration
 * **category**: *idiom*
 * **synonyms**: such as, for instance, like
-
-### Usage Example
 
 > As in, oil is cheaper than soda.
 
@@ -453,5 +369,21 @@ Created by *Milan Ondrašovič*
 | Language | Translation(s) |
 | -------- | ------------ |
 | *Slovak* | napríklad |
+
+---
+
+## Word: "a drop in the bucket"
+
+* **definition**: a small change in something with neglible impact
+* **category**: *idiom*
+* **synonyms**: negligible
+
+> Our emission reductions are just a drop in the bucket compared to what we need.
+
+**Pronunciation**: [US English](https://youglish.com/pronounce/a%20drop%20in%20the%20bucket/english/us), [UK English](https://youglish.com/pronounce/a%20drop%20in%20the%20bucket/english/uk)
+
+| Language | Translation(s) |
+| -------- | ------------ |
+| *Slovak* | kvapka v mori |
 
 
