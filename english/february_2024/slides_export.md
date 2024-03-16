@@ -28,15 +28,15 @@ Created by *Milan Ondrašovič*
 ---
 
 
-## Word: "to ween off"
+## Word: "to wean off"
 
 * **definition**: to gradually reduce or detach someone of something from dependence on something
 * **category**: *verb*
 * **synonyms**: withdraw, detach, phase out
 
-> Reduce the dose gradually to ween off the probiotics safely.
+> Reduce the dose gradually to wean off the probiotics safely.
 
-**Pronunciation**: [US English](https://youglish.com/pronounce/ween%20off/english/us), [UK English](https://youglish.com/pronounce/ween%20off/english/uk)
+**Pronunciation**: [US English](https://youglish.com/pronounce/wean%20off/english/us), [UK English](https://youglish.com/pronounce/wean%20off/english/uk)
 
 | Language | Translation(s) |
 | -------- | ------------ |
@@ -398,6 +398,8 @@ Created by *Milan Ondrašovič*
 
 > Children will be far more likely to suffer from stunting, i.e., to not properly develop physically or mentally.
 
+> Too much caffeine will stunt your growth.
+
 **Pronunciation**: [US English](https://youglish.com/pronounce/stunting/english/us), [UK English](https://youglish.com/pronounce/stunting/english/uk)
 
 | Language | Translation(s) |
@@ -416,6 +418,8 @@ Created by *Milan Ondrašovič*
 
 > We have to double down on upselling our customers.
 
+> She doubled down instead of apologizing that she had done nothing wrong.
+
 **Pronunciation**: [US English](https://youglish.com/pronounce/double%20down/english/us), [UK English](https://youglish.com/pronounce/double%20down/english/uk)
 
 | Language | Translation(s) |
@@ -431,6 +435,8 @@ Created by *Milan Ondrašovič*
 * **synonyms**: preference, relish, predilection
 
 > Despite its penchant for alphabet soup.
+
+> She has a penchant for trouble.
 
 **Pronunciation**: [US English](https://youglish.com/pronounce/penchant/english/us), [UK English](https://youglish.com/pronounce/penchant/english/uk)
 
@@ -508,7 +514,7 @@ Created by *Milan Ondrašovič*
 
 * **definition**: described something, usually water, that is safe and suitable for drinking
 * **category**: *adjective*
-* **synonyms**: drinkable
+* **synonyms**: drinking
 
 > It's getting harder to provide potable water to everyone who needs it.
 
@@ -532,7 +538,7 @@ Created by *Milan Ondrašovič*
 
 | Language | Translation(s) |
 | -------- | ------------ |
-| *Slovak* | odnieť |
+| *Slovak* | odznieť |
 
 ---
 
