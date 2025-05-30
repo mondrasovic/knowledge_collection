@@ -2,8 +2,7 @@ from __future__ import annotations
 
 import argparse
 
-from .data import Vocabulary
-from .export import VSCodeRevealExporter
+from core import Vocabulary, VSCodeRevealExporter
 
 
 def parse_args() -> argparse.ArgumentParser:

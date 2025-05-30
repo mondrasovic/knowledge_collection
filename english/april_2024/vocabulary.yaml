@@ -1,0 +1,118 @@
+# --------------------------------------------------------------------------------------------------
+- word: "electric substation"
+  definition: "a facility that transform voltage from high to low or vice versa"
+  category: "noun"
+  synonyms:
+    - "power station"
+  examples:
+    - "The new substation improved the efficiency of electricity distribution in the area."
+  translations:
+    - language: "slovak"
+      items:
+        - "elektrická rovodňa"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to laud"
+  definition: "it means to praise or extol someone or something, usually in an official manner"
+  category: "verb"
+  synonyms:
+    - "praise"
+    - "commend"
+    - "applaud"
+  examples:
+    - "The critics lauded the actor's performance loudly."
+  translations:
+    - language: "slovak"
+      items:
+        - "chváliť" 
+
+# --------------------------------------------------------------------------------------------------
+- word: "to upend"
+  definition: "it means to overturn, reverse, or overthrow something, typically a belief or a theory"
+  category: "verb"
+  synonyms:
+    - "overturn"
+    - "reverse"
+    - "tip something over"
+  examples:
+    - "These insights upend theories of how black holes shape the cosmos."
+  translations:
+    - language: "slovak"
+      items:
+        - "potlačiť"
+        - "prevrátiť"
+
+# --------------------------------------------------------------------------------------------------
+- word: "pollster"
+  definition: "it's a person or an organization that conducts opinion polls"
+  category: "noun"
+  synonyms:
+    - "survey researcher"
+    - "opinion researcher"
+    - "polling organization"
+  examples:
+    - "She works for the national pollster."
+  translations:
+    - language: "slovak"
+      items:
+        - "anketár"
+        - "prieskumná agentúra"
+        - "celoštátny prieskum verejnej mienky"
+
+# --------------------------------------------------------------------------------------------------
+- word: "stale"
+  definition: "it refers to something that is no longer fresh or new"
+  category: "adjective"
+  synonyms:
+    - "outdated"
+    - "obsolete"
+    - "antiquated"
+  examples:
+    - "These are just stale issues we do not need to bother with."
+  translations:
+    - language: "slovak"
+      items:
+        - "zastaralé"
+        - "neaktuálne"
+
+# --------------------------------------------------------------------------------------------------
+- word: "credit where credit's due"
+  definition: "an expression used to acknowledge someone's accomplishments, achievemenets, or positive qualities"
+  category: "idiom"
+  synonyms:
+    - "give credit where credit's due"
+  examples:
+    - "I don't always agree with her, but credit where credit's due, her methods are effective."
+  translations:
+    - language: "slovak"
+      items:
+        - "treba uznať"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to streamline"
+  definition: "it means to make a process or an organization more efficient, straightforward, or simplified"
+  category: "verb"
+  synonyms:
+    - "to simplify"
+    - "to optimize"
+  examples:
+    - "We are streamlining the process of model deployment."
+  translations:
+    - language: "slovak"
+      items:
+        - "zjednodušiť"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to pulverize"
+  definition: "it means to reduce something to fine particles or dust by crushing, blending, grinding, or pounding it forcefully"
+  category: "verb"
+  synonyms:
+    - "to grind"
+    - "to crush"
+    - "to smash"
+  examples:
+    - "There is no need to pulverize your veggies and fruits."
+  translations:
+    - language: "slovak"
+      items:
+        - "rozdrviť"

@@ -1,5 +1,5 @@
 # --------------------------------------------------------------------------------------------------
-- word: "to ween off"
+- word: "to wean off"
   definition: "to gradually reduce or detach someone of something from dependence on something"
   category: "verb"
   synonyms:
@@ -7,7 +7,7 @@
     - "detach"
     - "phase out"
   examples:
-    - "Reduce the dose gradually to ween off the probiotics safely."
+    - "Reduce the dose gradually to wean off the probiotics safely."
   translations:
     - language: "slovak"
       items:
@@ -340,6 +340,7 @@
     - "retardation"
   examples:
     - "Children will be far more likely to suffer from stunting, i.e., to not properly develop physically or mentally."
+    - "Too much caffeine will stunt your growth."
   translations:
     - language: "slovak"
       items:
@@ -355,6 +356,7 @@
   examples:
     - "We need to double down on malaria prevention."
     - "We have to double down on upselling our customers."
+    - "She doubled down instead of apologizing that she had done nothing wrong."
   translations:
     - language: "slovak"
       items:
@@ -370,6 +372,7 @@
     - "predilection"
   examples:
     - "Despite its penchant for alphabet soup."
+    - "She has a penchant for trouble."
   translations:
     - language: "slovak"
       items:
@@ -437,7 +440,7 @@
   definition: "described something, usually water, that is safe and suitable for drinking"
   category: "adjective"
   synonyms:
-    - "drinkable"
+    - "drinking"
   examples:
     - "It's getting harder to provide potable water to everyone who needs it."
   translations:
@@ -457,7 +460,7 @@
   translations:
     - language: "slovak"
       items:
-        - "odnieť" 
+        - "odznieť" 
 
 # --------------------------------------------------------------------------------------------------
 - word: "to take stock of"
@@ -622,3 +625,96 @@
     - language: "slovak"
       items:
         - "mimo rovnováhu"
+
+# --------------------------------------------------------------------------------------------------
+- word: "shortfall"
+  definition: "refers to a deficit or a gap between what is expected or required and what is actually available or achieved"
+  category: "noun"
+  synonyms:
+    - "shortage"
+    - "deficiency"
+    - "insufficiency"
+  examples:
+    - "The government lowers the quota because it expects a shortfall, and the shortfalls keep happening because the government keeps lowering the quota."
+    - "The company faced a budget shortfall due to unexpected expenses."
+  translations:
+    - language: "slovak"
+      items:
+        - "nedostatok"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to tap into"
+  definition: "it means to access or utilize a resource, potential, or reserve"
+  category: "verb"
+  synonyms:
+    - "utilize"
+    - "harness"
+    - "exploit"
+  examples:
+    - "If we do start now, tapping into the power of science and innovation, we can avoid repeating the same mistakes of pandemic preparation with climate change."
+  translations:
+    - language: "slovak"
+      items:
+        - "ťažiť"
+        - "využiť"
+
+# --------------------------------------------------------------------------------------------------
+- word: "proviso"
+  definition: "it is a condition or stipulation that is added to an agreement or statement to qualify its terms"
+  category: "noun"
+  synonyms:
+    - "stipulation"
+    - "condition"
+    - "clause"
+  examples:
+    - "With the provisos in mind, ..."
+    - "The contract included several provisos regarding delivery times and quality standards."
+  translations:
+    - language: "slovak"
+      items:
+        - "podmienka"
+        - "ustanovenie"
+
+# --------------------------------------------------------------------------------------------------
+- word: "to quintuple"
+  definition: "to increase something by five times its original amount of value"
+  category: "verb"
+  synonyms:
+    - "multiply by five"
+    - "increase fivefold"
+  examples:
+    - "We need to quintuple clean energy and climate-related R&D within the next decade."
+  translations:
+    - language: "slovak"
+      items:
+        - "zväčšiť päťnásobne"
+
+# --------------------------------------------------------------------------------------------------
+- word: "by the same token"
+  definition: "it is an expression used to introduce a related point or argument, often implying that the subsequent statement supports or reinforces the preceding one"
+  category: "idiom"
+  synonyms:
+    - "likewise"
+    - "similarly"
+    - "in the same vein"
+  examples:
+    - "By the same token, we need government to come to funding mega-scale prospects."
+  translations:
+    - language: "slovak"
+      items:
+        - "podobne"
+
+# --------------------------------------------------------------------------------------------------
+- word: "haul"
+  definition: "refers to a period of time that is expected to be lengthy or enduring, typically implying a sustained effort, commitment, or duration"
+  category: "noun"
+  synonyms:
+    - "period"
+    - "stretch"
+    - "duration"
+  examples:
+    - "We need to commit to funding the climate-related research for the long haul."
+  translations:
+    - language: "slovak"
+      items:
+        - "doba"

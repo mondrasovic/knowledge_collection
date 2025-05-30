@@ -4,12 +4,12 @@ import abc
 import re
 from typing import TYPE_CHECKING
 
-from .utils import encode_url, get_current_month_name
+from core.utils import encode_url, get_current_month_name
 
 if TYPE_CHECKING:
     from os import PathLike
 
-    from .data import Translation, Vocabulary, VocabularyItem
+    from core.data import Translation, Vocabulary, VocabularyItem
 
 
 class VocabularyExporter(abc.ABC):
@@ -39,7 +39,7 @@ class VSCodeRevealExporter(VocabularyExporter):
 title: {title} - {subtitle}
 author: {author}
 format: revealjs
-theme: moon
+theme: night
 highlight-style: base16-tomorrow
 defaultTiming: 140
 width: 1920
@@ -83,13 +83,9 @@ Created by *{author}*
         return f"""
 ## Word: "{vocabulary_item.word}"
 
-### General Information
-
 * **definition**: {vocabulary_item.definition}
 * **category**: *{vocabulary_item.category}*
 * **synonyms**: {synonyms}
-
-### Usage Example
 
 {examples}
 
